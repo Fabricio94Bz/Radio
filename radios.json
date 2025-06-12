@@ -43,7 +43,7 @@
     "id": "radio5",
     "name": "Rádio Colombo 93.3 FM",
     "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
-    "stream_url": "https://11.stmip.net:8698/stream",
+    "stream_url": "http://11.stmip.net:8698/stream",
     "description": "Curitiba / PR - Brasil",
     "genre": "",
     "website": ""
