@@ -8,5 +8,15 @@
     "genre": "",
     "website": ""
 
+  },
+  {
+    "id": "radio2",
+    "name": "Rádio Canção Nova 1370 AM",
+    "icon_url": "https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
+    "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
+    "description": "Curitiba / PR - Brasil",
+    "genre": "",
+    "website": ""
+
   }
 ]
