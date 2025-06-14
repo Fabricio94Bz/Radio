@@ -1,222 +1,191 @@
 [
-  {
-    "id": "radio1",
-    "name": "Rádio Mais 88.9 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio18046_1719930664.png",
-    "stream_url": "https://ice.fabricahost.com.br/maispinhaispr",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio2",
-    "name": "Rádio Rock 89.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio257611_1744235792.jpg",
-    "stream_url": "https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio3",
-    "name": "Rádio Alpha 90.1 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio192968_1639057143.png",
-    "stream_url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio4",
-    "name": "Rádio Banda B 89.7 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio10406_1733765823.jpg",
-    "stream_url": "https://ice.fabricahost.com.br/bandabctb",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio5",
-    "name": "Rádio Colombo 93.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
-    "stream_url": "http://11.stmip.net:8698/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio6",
-    "name": "Rádio Mundo Livre 93.9 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio14002_1702472924.jpg",
-    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio8",
-    "name": "Radio Uni 94.5 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio15288_1471951451.jpg",
-    "stream_url": "http://cast62.sitehosting.com.br:8371/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio9",
-    "name": "Rádio CBN Curitiba 95.1 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio11238_1573682988.jpg",
-    "stream_url": "https://ice.fabricahost.com.br/cbncuritiba",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-  "id": "radio10",
-  "name": "Rádio Massa 97.7 FM",
-  "icon_url": "https://img.radios.com.br/radio/lg/radio25823_1727703256.png",
-  "stream_url": "https://stm01.virtualcast.com.br:8118/massacuritiba",
-  "description": "Curitiba / PR - Brasil",
-  "genre": "",
-  "website": ""
-
-  },
-  {
-    "id": "radio11",
-    "name": "Rádio Mix 98.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio158195_1698666628.jpg",
-    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio12",
-    "name": "Rádio 98 FM 98.9",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio8892_1710376277.jpg",
-    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio13",
-    "name": "Radio Transamérica 100.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio8832_1718883141.jpg",
-    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWB.mp3",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio14",
-    "name": "Rádio Clube 101.5 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio11734_1700654890.png",
-    "stream_url": "https://8241.brasilstream.com.br/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio15",
-    "name": "Rádio Difusora 101.9 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio12805_1747417336.jpg",
-    "stream_url": "https://servidor22-4.brlogic.com:8270/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio16",
-    "name": "Rádio Caiobá 102.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio11064_1698666306.jpg",
-    "stream_url": "https://servidor35-3.brlogic.com:7094/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio17",
-    "name": "Rádio Nova Estação 102.9 FM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio250190_1723068024.jpg",
-    "stream_url": "https://servidor39-3.brlogic.com:7094/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio18",
-    "name": "Rádio Jovem Pan 103.9 FM",
-    "icon_url": "https://jpimg.com.br/uploads/2024/02/avatar-curitiba-rgb-500x500.png",
-    "stream_url": "https://r15.ciclano.io/proxy/radiofmi/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio19",
-    "name": "Rádio T 104.9 FM",
-    "icon_url": "https://radiot.fm/images/logo4.fw.png",
-    "stream_url": "https://s1.mediacp.com.br:8984/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio20",
-    "name": "Rádio Ouro Verde Easy 105.5 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio13892_1725897620.jpg",
-    "stream_url": "https://servidor18-1.brlogic.com:7484/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio21",
-    "name": "Rádio Sara Brasil FM 107.5",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio14541_1641820167.png",
-    "stream_url": "https://hts01.brascast.com:8012/live",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-
-  {
-    "id": "radio22",
-    "name": "Rádio Mix 106.3 FM",
-    "icon_url": "https://img.radios.com.br/radio/md/radio13955_1720711597.png",
-    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "description": "São Paulo / SP - Brasil",
-    "genre": "",
-    "website": ""
-
-  }
+   {
+      "id":"radio1",
+      "name":"Rádio Mais 88.9 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio18046_1719930664.png",
+      "stream_url":"https://ice.fabricahost.com.br/maispinhaispr",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio2",
+      "name":"Rádio Rock 89.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio257611_1744235792.jpg",
+      "stream_url":"https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio3",
+      "name":"Rádio Alpha 90.1 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio192968_1639057143.png",
+      "stream_url":"https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio4",
+      "name":"Rádio Banda B 89.7 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio10406_1733765823.jpg",
+      "stream_url":"https://ice.fabricahost.com.br/bandabctb",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio5",
+      "name":"Rádio Colombo 93.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
+      "stream_url":"http://11.stmip.net:8698/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio6",
+      "name":"Rádio Mundo Livre 93.9 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio14002_1702472924.jpg",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio8",
+      "name":"Radio Uni 94.5 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio15288_1471951451.jpg",
+      "stream_url":"http://cast62.sitehosting.com.br:8371/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio9",
+      "name":"Rádio CBN Curitiba 95.1 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio11238_1573682988.jpg",
+      "stream_url":"https://ice.fabricahost.com.br/cbncuritiba",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio10",
+      "name":"Rádio Massa 97.7 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio25823_1727703256.png",
+      "stream_url":"https://stm01.virtualcast.com.br:8118/massacuritiba",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio11",
+      "name":"Rádio Mix 98.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio158195_1698666628.jpg",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio12",
+      "name":"Rádio 98 FM 98.9",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio8892_1710376277.jpg",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio13",
+      "name":"Radio Transamérica 100.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio8832_1718883141.jpg",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWB.mp3",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio14",
+      "name":"Rádio Clube 101.5 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio11734_1700654890.png",
+      "stream_url":"https://8241.brasilstream.com.br/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio15",
+      "name":"Rádio Difusora 101.9 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio12805_1747417336.jpg",
+      "stream_url":"https://servidor22-4.brlogic.com:8270/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio16",
+      "name":"Rádio Caiobá 102.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio11064_1698666306.jpg",
+      "stream_url":"https://servidor35-3.brlogic.com:7094/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio17",
+      "name":"Rádio Nova Estação 102.9 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio250190_1723068024.jpg",
+      "stream_url":"https://servidor39-3.brlogic.com:7094/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio18",
+      "name":"Rádio Jovem Pan 103.9 FM",
+      "icon_url":"https://jpimg.com.br/uploads/2024/02/avatar-curitiba-rgb-500x500.png",
+      "stream_url":"https://r15.ciclano.io/proxy/radiofmi/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio19",
+      "name":"Rádio T 104.9 FM",
+      "icon_url":"https://radiot.fm/images/logo4.fw.png",
+      "stream_url":"https://s1.mediacp.com.br:8984/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio20",
+      "name":"Rádio Ouro Verde Easy 105.5 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio13892_1725897620.jpg",
+      "stream_url":"https://servidor18-1.brlogic.com:7484/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio21",
+      "name":"Rádio Sara Brasil FM 107.5",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio14541_1641820167.png",
+      "stream_url":"https://hts01.brascast.com:8012/live",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio22",
+      "name":"Rádio Mix 106.3 FM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio13955_1720711597.png",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+      "description":"São Paulo / SP - Brasil",
+      "genre":"",
+      "website":""
+   }
 ]
-
