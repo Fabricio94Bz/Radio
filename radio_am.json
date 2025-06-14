@@ -1,22 +1,83 @@
 [
-  {
-    "id": "radio1",
-    "name": "Rádio Canção Nova 1370 AM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
-    "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  },
-  {
-    "id": "radio2",
-    "name": "Rádio Canção Nova 1370 AM",
-    "icon_url": "https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
-    "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
-    "description": "Curitiba / PR - Brasil",
-    "genre": "",
-    "website": ""
-
-  }
+   {
+      "id":"radio4",
+      "name":"Rádio Evangelizar Easy 96.7 FM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio42806_1731954470.png",
+      "stream_url":"https://8272.brasilstream.com.br/stream?origem=radios.com.br",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio9",
+      "name":"Rádio Paraná Educativa 630 AM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio14230_1552651351.jpg",
+      "stream_url":"http://200.189.113.201/stream/educativaam.mp3",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio8",
+      "name":"Rádio Marumby 730 AM",
+      "icon_url":"https://img.radios.com.br/radio/md/radio13816_1600078529.jpg",
+      "stream_url":"http://sl.dnip.com.br:10174/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio2",
+      "name":"Rádio Nacional 790 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio12186_1736972790.jpg",
+      "stream_url":"https://stm17.xcast.com.br:12334/stream",
+      "description":"Fazenda Rio Grande / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio7",
+      "name":"Rádio Cultura 930 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio12410_1548763299.jpg",
+      "stream_url":"https://mbetti.jmvstream.com/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio10",
+      "name":"Super Rádio Deus é Amor 1210 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio14748_1579779505.jpg",
+      "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/PR_RADIOONLINEAAC_SC",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio1",
+      "name":"Rádio Canção Nova 1370 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
+      "stream_url":"https://cloud1.cdnseguro.com:2574/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio6",
+      "name":"Rádio Tropical Gospel 1320 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio25564_1439401624.jpg",
+      "stream_url":"https://stream3.svrdedicado.org/8096/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   },
+   {
+      "id":"radio5",
+      "name":"Rádio RB2 1430 AM",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio11824_1439401393.jpg",
+      "stream_url":"https://stream1.svrdedicado.org/8030/stream",
+      "description":"Curitiba / PR - Brasil",
+      "genre":"",
+      "website":""
+   }
 ]
