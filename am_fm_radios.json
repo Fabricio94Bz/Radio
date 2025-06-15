@@ -225,6 +225,14 @@
     },
     {
         "id": "radio21",
+        "name": "RRádio Jovem Pan News 107.1 FM",
+        "icon_url": "https://img.radios.com.br/radio/lg/radio144133_1675163228.jpg",
+        "stream_url": "https://r18.ciclano.io/proxy/jovempancuri/stream",
+        "description": "Curitiba / PR - Brasil",
+        "band": "FM"
+    },
+    {
+        "id": "radio22",
         "name": "Rádio Sara Brasil FM 107.5",
         "icon_url": "https://img.radios.com.br/radio/lg/radio14541_1641820167.png",
         "stream_url": "https://hts01.brascast.com:8012/live",
@@ -232,7 +240,7 @@
         "band": "FM"
     },
     {
-        "id": "radio22",
+        "id": "radio23",
         "name": "Rádio Mix 106.3 FM",
         "icon_url": "https://img.radios.com.br/radio/md/radio13955_1720711597.png",
         "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
