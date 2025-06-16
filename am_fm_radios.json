@@ -6,7 +6,7 @@
       "stream_url": "http://200.189.113.201/stream/educativaam.mp3",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "630 AM - MPB"
+      "MHz": "630 AM MPB"
    },
    {
       "id": "radio2",
@@ -15,7 +15,7 @@
       "stream_url": "http://sl.dnip.com.br:10174/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "730 AM - Gospel"
+      "MHz": "730 AM Gospel"
    },
    {
       "id": "radio3",
@@ -24,7 +24,7 @@
       "stream_url": "https://stm17.xcast.com.br:12334/stream",
       "description": "Fazenda Rio Grande / PR - Brasil",
       "band": "AM",
-      "MHz": "790 AM"
+      "MHz": "790 AM Popular"
    },
    {
       "id": "radio4",
@@ -33,7 +33,7 @@
       "stream_url": "https://mbetti.jmvstream.com/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "930 AM"
+      "MHz": "930 AM Hits,Eclética"
    },
    {
       "id": "radio5",
@@ -42,7 +42,7 @@
       "stream_url": "http://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "1170 AM"
+      "MHz": "1170 AM Gospel"
    },
    {
       "id": "radio6",
@@ -51,7 +51,7 @@
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PR_RADIOONLINEAAC_SC",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "1210 AM"
+      "MHz": "1210 AM Gospel"
    },
    {
       "id": "radio7",
@@ -60,7 +60,7 @@
       "stream_url": "https://stream3.svrdedicado.org/8096/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "1320 AM"
+      "MHz": "1320 AM Gospel"
    },
    {
       "id": "radio8",
@@ -69,7 +69,7 @@
       "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "1370 AM"
+      "MHz": "1370 AM Católica"
    },
    {
       "id": "radio9",
@@ -78,7 +78,7 @@
       "stream_url": "https://stream1.svrdedicado.org/8030/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "1430 AM"
+      "MHz": "1430 AM Sertaneja,Popular"
    },
    {
       "id": "radio1",
@@ -87,7 +87,7 @@
       "stream_url": "https://live.paineldj.com.br/proxy/marumbyfm885?mp=/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "FM",
-      "MHz": "88.5 FM"
+      "MHz": "88.5 FM Gospel"
    },
    {
       "id": "radio2",
@@ -96,7 +96,7 @@
       "stream_url": "http://cast.youngtech.radio.br:8550/radio",
       "description": "Curitiba / PR - Brasil",
       "band": "FM",
-      "MHz": "85.3 FM"
+      "MHz": "85.3 FM Pop-Rock,Rock,Jovem"
    },
    {
       "id": "radio3",
@@ -105,7 +105,7 @@
       "stream_url": "https://ice.fabricahost.com.br/maispinhaispr",
       "description": "Curitiba / PR - Brasil",
       "band": "FM",
-      "MHz": "88.9 FM"
+      "MHz": "88.9 FM Hits,Sertaneja"
    },
    {
       "id": "radio4",
