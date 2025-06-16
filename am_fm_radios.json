@@ -6,7 +6,7 @@
       "stream_url": "http://200.189.113.201/stream/educativaam.mp3",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "630 AM"
+      "MHz": "630 AM - MPB"
    },
    {
       "id": "radio2",
@@ -15,7 +15,7 @@
       "stream_url": "http://sl.dnip.com.br:10174/stream",
       "description": "Curitiba / PR - Brasil",
       "band": "AM",
-      "MHz": "730 AM"
+      "MHz": "730 AM - Gospel"
    },
    {
       "id": "radio3",
