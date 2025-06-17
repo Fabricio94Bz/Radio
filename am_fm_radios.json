@@ -385,14 +385,5 @@
       "description": "Curitiba / PR - Brasil",
       "band": "FM",
       "MHz": "107.5 FM"
-   },
-   {
-      "id": "radio35",
-      "name": "Rádio Mix",
-      "icon_url": "https://img.radios.com.br/radio/md/radio13955_1720711597.png",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-      "description": "São Paulo / SP - Brasil",
-      "band": "FM",
-      "MHz": "106.3 FM"
    }
 ]
