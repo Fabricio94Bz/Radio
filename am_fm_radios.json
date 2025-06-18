@@ -385,5 +385,14 @@
       "description": "Curitiba / PR - Brasil",
       "band": "FM",
       "MHz": "107.5 FM"
+   },
+   {
+      "id": "radio35",
+      "name": "Rádio 91 Rock FM",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio89_1447757396.jpg",
+      "stream_url": "https://servidor40.brlogic.com:8044/live",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "WEB"
    }
 ]
