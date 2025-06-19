@@ -577,6 +577,15 @@
    },
    {
       "id":"radio56",
+      "name":"Rádio Hunter FM Pisadinha",
+      "icon_url":"https://cdn-profiles.tunein.com/s339996/images/logod.png?t=638754806110000000",
+      "stream_url":"https://live.hunter.fm/pisadinha_normall",
+      "description":"Brasília / DF - Brasil",
+      "band":"FM",
+      "MHz":"WEB"
+   },
+   {
+      "id":"radio57",
       "name":"Rádio CAP",
       "icon_url":"https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
       "stream_url":"https://servidor37.brlogic.com:8002/live",
@@ -585,7 +594,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio57",
+      "id":"radio58",
       "name":"Rádio Coxa",
       "icon_url":"https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
       "stream_url":"http://centova.serversp.com:8030/stream",
