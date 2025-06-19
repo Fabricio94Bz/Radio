@@ -514,9 +514,9 @@
    },
    {
       "id":"radio49",
-      "name":"Rádio Hunter FM Rock",
-      "icon_url":"https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
-      "stream_url":"https://live.hunter.fm/rock_normal",
+      "name":"Rádio Hunter FM Sertanejo",
+      "icon_url":"https://cdn-profiles.tunein.com/s264202/images/logod.jpg?t=637849742660000000",
+      "stream_url":"https://live.hunter.fm/sertanejo_normal",
       "description":"Brasília / DF - Brasil",
       "band":"FM",
       "MHz":"WEB"
@@ -532,42 +532,6 @@
    },
    {
       "id":"radio51",
-      "name":"Rádio Hunter FM Rock",
-      "icon_url":"https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
-      "stream_url":"https://live.hunter.fm/rock_normal",
-      "description":"Brasília / DF - Brasil",
-      "band":"FM",
-      "MHz":"WEB"
-   },
-   {
-      "id":"radio52",
-      "name":"Rádio Hunter FM Rock",
-      "icon_url":"https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
-      "stream_url":"https://live.hunter.fm/rock_normal",
-      "description":"Brasília / DF - Brasil",
-      "band":"FM",
-      "MHz":"WEB"
-   },
-   {
-      "id":"radio53",
-      "name":"Rádio Hunter FM Sertanejo",
-      "icon_url":"https://cdn-profiles.tunein.com/s264202/images/logod.jpg?t=637849742660000000",
-      "stream_url":"https://live.hunter.fm/sertanejo_normal",
-      "description":"Brasília / DF - Brasil",
-      "band":"FM",
-      "MHz":"WEB"
-   },
-   {
-      "id":"radio54",
-      "name":"Rádio Hunter FM Rock",
-      "icon_url":"https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
-      "stream_url":"https://live.hunter.fm/rock_normal",
-      "description":"Brasília / DF - Brasil",
-      "band":"FM",
-      "MHz":"WEB"
-   },
-   {
-      "id":"radio55",
       "name":"Rádio Hunter FM Tropical",
       "icon_url":"https://cdn-profiles.tunein.com/s291048/images/logod.jpg?t=637849739680000000",
       "stream_url":"https://live.hunter.fm/tropical_normal",
@@ -576,7 +540,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio56",
+      "id":"radio52",
       "name":"Rádio Hunter FM Hits Brasil",
       "icon_url":"https://cdn-profiles.tunein.com/s339994/images/logod.png?t=638754803670000000",
       "stream_url":"https://live.hunter.fm/hitsbrasil_normal",
@@ -585,7 +549,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio57",
+      "id":"radio53",
       "name":"Rádio Hunter FM K-pop",
       "icon_url":"https://cdn-profiles.tunein.com/s339993/images/logod.png?t=638754802220000000",
       "stream_url":"https://live.hunter.fm/kpop_normal",
@@ -594,7 +558,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio58",
+      "id":"radio54",
       "name":"Rádio Hunter FM Master",
       "icon_url":"https://cdn-profiles.tunein.com/s339858/images/logod.png?t=638753127390000000",
       "stream_url":"https://live.hunter.fm/master_normal",
@@ -603,7 +567,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio59",
+      "id":"radio55",
       "name":"Rádio Hunter FM MPB",
       "icon_url":"https://cdn-profiles.tunein.com/s339990/images/logod.png?t=638754797850000000",
       "stream_url":"https://live.hunter.fm/mpb_normal",
@@ -612,7 +576,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio60",
+      "id":"radio56",
       "name":"Rádio CAP",
       "icon_url":"https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
       "stream_url":"https://servidor37.brlogic.com:8002/live",
@@ -621,7 +585,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio61",
+      "id":"radio57",
       "name":"Rádio Coxa",
       "icon_url":"https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
       "stream_url":"http://centova.serversp.com:8030/stream",
