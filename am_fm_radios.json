@@ -431,8 +431,16 @@
       "band":"FM",
       "MHz":"WEB"
    },
-   {
+{
       "id":"radio40",
+      "name":"ELECTRO BEATs World",
+      "icon_url":"https://cdn-profiles.tunein.com/s337219/images/logod.jpg?t=638842314380000000",
+      "stream_url":"https://stream.zeno.fm/r4rvnfe5iqbuv",
+      "description":"Barra da Tijuca / Rio de janeiro",
+      "MHz":"WEB"
+   },
+   {
+      "id":"radio41",
       "name":"Rádio CAP",
       "icon_url":"https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
       "stream_url":"https://servidor37.brlogic.com:8002/live",
@@ -441,7 +449,7 @@
       "MHz":"WEB"
    },
    {
-      "id":"radio41",
+      "id":"radio42",
       "name":"Rádio Coxa",
       "icon_url":"https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
       "stream_url":"http://centova.serversp.com:8030/stream",
