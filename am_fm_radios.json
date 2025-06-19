@@ -110,7 +110,7 @@
    {
       "id":"radio4",
       "name":"Rádio Rock",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio257611_1744235792.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
       "stream_url":"https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -137,7 +137,7 @@
    {
       "id":"radio7",
       "name":"Rádio Evangelizar",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio13128_1739186745.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s97373/images/logod.jpg?t=638290619660000000",
       "stream_url":"https://8241.brasilstream.com.br/stream?origem=radios.com.br",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -164,7 +164,7 @@
    {
       "id":"radio10",
       "name":"Rádio Mercosul",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio176406_1661345172.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s337304/images/logod.jpg?t=638719418460000000",
       "stream_url":"https://ice.fabricahost.com.br/redemercosulctba",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -182,7 +182,7 @@
    {
       "id":"radio12",
       "name":"Rádio Mundo Livre",
-      "icon_url":"https://img.radios.com.br/radio/md/radio14002_1702472924.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s97340/images/logod.png?t=638519046690000000",
       "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -191,7 +191,7 @@
    {
       "id":"radio13",
       "name":"Radio Uni",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio15288_1471951451.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s268815/images/logod.jpg?t=636650128479800000",
       "stream_url":"http://cast62.sitehosting.com.br:8371/live",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -200,7 +200,7 @@
    {
       "id":"radio14",
       "name":"Rádio CBN Curitiba",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio11238_1573682988.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s17688/images/logod.png?t=636682744031000000",
       "stream_url":"https://ice.fabricahost.com.br/cbncuritiba",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -218,7 +218,7 @@
    {
       "id":"radio16",
       "name":"Rádio BandNews",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio10404_1579261328.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s98817/images/logod.png?t=637107851280000000",
       "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_CTBAAC.aac",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -253,30 +253,30 @@
    },
    {
       "id":"radio20",
-      "name":"Rádio Evangelizar Pop",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio72767_1732542125.png",
-      "stream_url":"https://8239.brasilstream.com.br/stream?origem=radios.com.br",
-      "description":"Curitiba / PR - Brasil",
-      "band":"FM",
-      "MHz":"99.5 FM"
-   },
-   {
-      "id":"radio21",
       "name":"Rádio Mix",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio158195_1698666628.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s144359/images/logod.png?t=637865831080000000",
       "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
       "MHz":"98.3 FM"
    },
    {
-      "id":"radio22",
+      "id":"radio21",
       "name":"Rádio  98.9 FM",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio8892_1710376277.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s16621/images/logod.png?t=638518780430000000",
       "stream_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
       "MHz":"98 FM"
+   },
+   {
+      "id":"radio22",
+      "name":"Rádio Evangelizar Pop",
+      "icon_url":"https://img.radios.com.br/radio/lg/radio72767_1732542125.png",
+      "stream_url":"https://8239.brasilstream.com.br/stream?origem=radios.com.br",
+      "description":"Curitiba / PR - Brasil",
+      "band":"FM",
+      "MHz":"99.5 FM"
    },
    {
       "id":"radio23",
@@ -299,7 +299,7 @@
    {
       "id":"radio25",
       "name":"Rádio Difusora",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio12805_1747417336.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s128963/images/logod.jpg?t=638846748050000000",
       "stream_url":"https://servidor22-4.brlogic.com:8270/live",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -326,7 +326,7 @@
    {
       "id":"radio28",
       "name":"Rádio Jovem Pan",
-      "icon_url":"https://jpimg.com.br/uploads/2024/02/avatar-curitiba-rgb-500x500.png",
+      "icon_url":"https://cdn-profiles.tunein.com/s139000/images/logod.png?t=638456144650000000",
       "stream_url":"https://r15.ciclano.io/proxy/radiofmi/stream",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -371,7 +371,7 @@
    {
       "id":"radio33",
       "name":"Rádio Jovem Pan News",
-      "icon_url":"https://img.radios.com.br/radio/lg/radio144133_1675163228.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s341059/images/logod.png?t=638778226600000000",
       "stream_url":"https://r18.ciclano.io/proxy/jovempancuri/stream",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -437,7 +437,7 @@
       "icon_url":"https://cdn-profiles.tunein.com/s337219/images/logod.jpg?t=638842314380000000",
       "stream_url":"https://stream.zeno.fm/r4rvnfe5iqbuv",
       "description":"Rio de Janeiro / RJ - Brasil",
-       "band":"FM",
+      "band":"FM",
       "MHz":"WEB"
    },
    {
