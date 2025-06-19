@@ -353,7 +353,7 @@
    {
       "id":"radio31",
       "name":"Rádio Ouro Verde Easy",
-      "icon_url":"https://img.radios.com.br/radio/md/radio13892_1725897620.jpg",
+      "icon_url":"https://cdn-profiles.tunein.com/s10966/images/logod.jpg?t=638846748330000000",
       "stream_url":"https://servidor18-1.brlogic.com:7484/live",
       "description":"Curitiba / PR - Brasil",
       "band":"FM",
@@ -431,12 +431,13 @@
       "band":"FM",
       "MHz":"WEB"
    },
-{
+   {
       "id":"radio40",
       "name":"ELECTRO BEATs World",
       "icon_url":"https://cdn-profiles.tunein.com/s337219/images/logod.jpg?t=638842314380000000",
       "stream_url":"https://stream.zeno.fm/r4rvnfe5iqbuv",
       "description":"Barra da Tijuca / Rio de janeiro",
+       "band":"FM",
       "MHz":"WEB"
    },
    {
