@@ -1,19 +1,26 @@
+# 📻 Radio Streaming App
 
-### Como isso funciona no GitHub:
+[![GitHub license](https://img.shields.io/github/license/seu-usuario/radio-streaming-app)](LICENSE)
+[![Privacy Policy](https://img.shields.io/badge/🔒_Privacy_Policy-View_Here-blue?style=flat&logo=github)](politica-privacidade.html)
 
-1. Quando o usuário clicar em "[🔒 Política de Privacidade](politica-privacidade.html)", o GitHub automaticamente:
-   - Renderizará o HTML como uma página web
-   - Manterá a navegação no próprio site do GitHub
+Um aplicativo Android para streaming de estações de rádio online com qualidade HD.
 
-2. Para visualização ideal:
-   - Certifique-se que o arquivo `politica-privacidade.html` está na raiz do repositório
-   - Atualize os links com seu nome de usuário e repositório real
+## 📑 Documentação Legal
 
-### Versão alternativa com botão HTML:
+### 📄 Política de Privacidade
+▶️ [Visualizar em formato web](politica-privacidade.html)  
+📝 [Ver código fonte](politica-privacidade.html?plain=1)
 
-Se preferir um botão mais destacado, adicione este código no README:
+### 📜 Termos de Uso
+Os termos estão incluídos no mesmo documento da política de privacidade.
 
-```markdown
-<a href="politica-privacidade.html" target="_blank">
-  <img src="https://img.shields.io/badge/Política_de_Privacidade-Verde?style=for-the-badge" alt="Política de Privacidade">
-</a>
+## 🛠 Como Implementar no Seu App
+
+### Método 1: WebView Integrada
+```java
+// Em sua Activity
+val webView = WebView(this).apply {
+    loadUrl("https://raw.githack.com/Fabricio,94Bz/repo/main/politica-privacidade.html")
+    settings.javaScriptEnabled = true
+}
+setContentView(webView)
