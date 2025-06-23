@@ -52,7 +52,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Flashback, Adulta, Classic Hits",
-      "website": "https://jovempan.com.br/classic-pan"
+      "website": "https://jovempan.com.br/"
    },
    {
       "id": "06",
@@ -85,7 +85,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Adulta, Classic Rock, Soft Rock",
-      "website": "https://radioparadise.com/listen/channels/mellow-mix"
+      "website": ""
    },
    {
       "id": "09",
@@ -107,7 +107,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Oldies, Adulta",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "11",
@@ -118,7 +118,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Gospel",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "12",
@@ -129,7 +129,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Hits, CHR, Pop",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "13",
@@ -140,7 +140,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "K-pop",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "14",
@@ -151,7 +151,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Hip-Hop",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "15",
@@ -162,7 +162,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Easy Listening",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "16",
@@ -173,7 +173,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Sertaneja, Sertanejo Raiz",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "17",
@@ -184,7 +184,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "MPB",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "18",
@@ -195,7 +195,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Samba Pagode",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "19",
@@ -206,7 +206,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Hits, Eclética, Forró",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "20",
@@ -217,7 +217,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Jovem, Pop",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "21",
@@ -228,7 +228,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Hits, CHR, Pop",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "22",
@@ -239,7 +239,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Rock",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "23",
@@ -250,7 +250,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Sertaneja",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "24",
@@ -261,7 +261,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Dance",
-      "website": ""
+      "website": "https://hunter.fm/"
    },
    {
       "id": "25",
@@ -283,7 +283,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Sertaneja",
-      "website": ""
+      "website": "https://www.radiobaucaipira.com.br/"
    },
    {
       "id": "27",
@@ -294,7 +294,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Pop-Rock, Rock 'n' Roll, Futebol",
-      "website": ""
+      "website": "https://www.athletico.com.br/"
    },
    {
       "id": "28",
@@ -305,7 +305,7 @@
       "band": "WEB",
       "MHz": "WEB",
       "genre": "Futebol",
-      "website": ""
+      "website": "https://www.coritiba.com.br/"
    },
    {
       "id": "29",
@@ -316,7 +316,7 @@
       "band": "FM",
       "MHz": "98.9 FM",
       "genre": "Hits, Eclética, Jovem",
-      "website": ""
+      "website": "https://www.98fmcuritiba.com.br/"
    },
    {
       "id": "30",
@@ -327,7 +327,7 @@
       "band": "FM",
       "MHz": "90.1 FM",
       "genre": "Flashback, Adulta",
-      "website": ""
+      "website": "https://alphafm.com.br/"
    },
    {
       "id": "31",
@@ -338,18 +338,18 @@
       "band": "FM",
       "MHz": "94.7 FM",
       "genre": "Flashback, Adulta",
-      "website": ""
+      "website": "https://www.antena1.com.br/"
    },
    {
       "id": "32",
-      "name": "Rádio Atlântida ",
+      "name": "Rádio Atlântida",
       "icon_url": "https://cdn-profiles.tunein.com/s104924/images/logod.png?t=636324350151570000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.aac",
       "description": "Porto Alegre / RS",
       "band": "FM",
       "MHz": "94.3 FM",
       "genre": "Pop-Rock",
-      "website": ""
+      "website": "https://atl.clicrbs.com.br/"
    },
    {
       "id": "33",
@@ -360,7 +360,7 @@
       "band": "FM",
       "MHz": "89.7 FM",
       "genre": "Jornalismo, Popular",
-      "website": ""
+      "website": "https://www.bandab.com.br/"
    },
    {
       "id": "34",
@@ -371,7 +371,7 @@
       "band": "FM",
       "MHz": "96.3 FM",
       "genre": "Jornalismo, Esportes, Automobilismo",
-      "website": ""
+      "website": "https://www.band.com.br/"
    },
    {
       "id": "35",
@@ -382,7 +382,7 @@
       "band": "FM",
       "MHz": "92.3 FM",
       "genre": "Gospel",
-      "website": ""
+      "website": "https://bbn1.bbnradio.org/"
    },
    {
       "id": "36",
@@ -393,7 +393,7 @@
       "band": "FM",
       "MHz": "102.3 FM",
       "genre": "Hits, Pop-Rock, Eclética",
-      "website": ""
+      "website": "https://caiobafm.com.br/"
    },
    {
       "id": "37",
@@ -404,7 +404,7 @@
       "band": "FM",
       "MHz": "95.1 FM",
       "genre": "Jornalismo, Futebol, Debates e Entrevistas",
-      "website": ""
+      "website": "https://cbncuritiba.com.br/"
    },
    {
       "id": "38",
@@ -415,7 +415,7 @@
       "band": "FM",
       "MHz": "101.5 FM",
       "genre": "Hits, Sertaneja, Popular",
-      "website": ""
+      "website": "https://clubefm.com/"
    },
    {
       "id": "39",
@@ -426,7 +426,7 @@
       "band": "FM",
       "MHz": "93.3 FM",
       "genre": "Sertaneja, Popular, Adulta",
-      "website": ""
+      "website": "https://supercolombo.com.br/"
    },
    {
       "id": "40",
@@ -437,7 +437,7 @@
       "band": "FM",
       "MHz": "101.9 FM",
       "genre": "Adulta, MPB, Noticiários",
-      "website": ""
+      "website": "https://difusorafmcuritiba.com.br/"
    },
    {
       "id": "41",
@@ -448,7 +448,7 @@
       "band": "FM",
       "MHz": "85.3 FM",
       "genre": "Pop-Rock, Rock, Jovem",
-      "website": ""
+      "website": "https://estacaoprimeira.com.br/"
    },
    {
       "id": "42",
