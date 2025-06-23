@@ -11,16 +11,6 @@
    },
    {
       "id": "02",
-      "name": "Rádio A Estilo Gaúcho FM",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio100765_1734611287.jpg",
-      "stream_url": "http://stm12.painelcast.com:7402/stream",
-      "description": "Curitiba / PR - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Gauchesca"
-   },
-   {
-      "id": "03",
       "name": "Rádio Alternativa Rock",
       "icon_url": "https://img.radios.com.br/radio/lg/radio45206_1683137299.jpg",
       "stream_url": "https://s25.maxcast.com.br:8080/live",
@@ -30,37 +20,7 @@
       "genre": "Rock 'n' Roll"
    },
    {
-      "id": "04",
-      "name": "Rádio Baú Caipira",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio226172_1694693442.png",
-      "stream_url": "https://srv2.braudio.com.br/7004/stream",
-      "description": "Curitiba / PR - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Sertaneja"
-   },
-   {
-      "id": "05",
-      "name": "Rádio CAP",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
-      "stream_url": "https://servidor37.brlogic.com:8002/live",
-      "description": "Curitiba / PR - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Pop-Rock, Rock 'n' Roll, Futebol"
-   },
-   {
-      "id": "06",
-      "name": "Rádio Coxa",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
-      "stream_url": "http://centova.serversp.com:8030/stream",
-      "description": "Curitiba / PR - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Futebol"
-   },
-   {
-      "id": "07",
+      "id": "03",
       "name": "Rádio ELECTRO BEATs World",
       "icon_url": "https://cdn-profiles.tunein.com/s337219/images/logod.jpg?t=638842314380000000",
       "stream_url": "https://stream.zeno.fm/r4rvnfe5iqbuv",
@@ -70,7 +30,27 @@
       "genre": "World Music, Dance, Techno"
    },
    {
-      "id": "08",
+      "id": "04",
+      "name": "Rádio Kiss",
+      "icon_url": "https://cdn-profiles.tunein.com/s6165/images/logod.png?t=636927382740000000",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
+      "description": "São Paulo / SP - Brasil",
+      "band": "FM",
+      "MHz": "92.5 FM",
+      "genre": "Pop-Rock, Classic Rock"
+   },
+   {
+      "id": "05",
+      "name": "Rádio Classic Pan",
+      "icon_url": "https://cdn-profiles.tunein.com/s143777/images/logod.png?t=638309618620000000",
+      "stream_url": "https://stream.zeno.fm/rtk4pzcome3vv",
+      "description": "São Paulo / SP - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Flashback, Adulta, Classic Hits"
+   },
+   {
+      "id": "06",
       "name": "Rádio Geração Hip-Hop Rap",
       "icon_url": "https://cdn-profiles.tunein.com/s278573/images/logod.png?t=637834790490000000",
       "stream_url": "https://servidor.geracaoradios.com/listen/hiphoprap/stream",
@@ -80,357 +60,7 @@
       "genre": "Hip-Hop"
    },
    {
-      "id": "09",
-      "name": "Rádio Hunter FM 80s",
-      "icon_url": "https://cdn-profiles.tunein.com/s309441/images/logod.jpg?t=638112998530000000",
-      "stream_url": "https://live.hunter.fm/80s_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Oldies, Adulta"
-   },
-   {
-      "id": "10",
-      "name": "Rádio Hunter FM Gospel",
-      "icon_url": "https://cdn-profiles.tunein.com/s339991/images/logod.png?t=638754799750000000",
-      "stream_url": "https://live.hunter.fm/gospel_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Gospel"
-   },
-   {
-      "id": "11",
-      "name": "Rádio Hunter FM Hits Brasil",
-      "icon_url": "https://cdn-profiles.tunein.com/s339994/images/logod.png?t=638754803670000000",
-      "stream_url": "https://live.hunter.fm/hitsbrasil_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Hits, CHR, Pop"
-   },
-   {
-      "id": "12",
-      "name": "Rádio Hunter FM K-pop",
-      "icon_url": "https://cdn-profiles.tunein.com/s339993/images/logod.png?t=638754802220000000",
-      "stream_url": "https://live.hunter.fm/kpop_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "K-pop"
-   },
-   {
-      "id": "13",
-      "name": "Rádio Hunter FM Lo-Fi",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio120432_1645023325.jpg",
-      "stream_url": "https://live.hunter.fm/lofi_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Hip-Hop"
-   },
-   {
-      "id": "14",
-      "name": "Rádio Hunter FM Master",
-      "icon_url": "https://cdn-profiles.tunein.com/s339858/images/logod.png?t=638753127390000000",
-      "stream_url": "https://live.hunter.fm/master_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Easy Listening"
-   },
-   {
-      "id": "15",
-      "name": "Rádio Hunter FM Moda Sertaneja",
-      "icon_url": "https://cdn-profiles.tunein.com/s339992/images/logod.png?t=638754801020000000",
-      "stream_url": "https://live.hunter.fm/modasertaneja_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Sertaneja, Sertanejo Raiz"
-   },
-   {
-      "id": "16",
-      "name": "Rádio Hunter FM MPB",
-      "icon_url": "https://cdn-profiles.tunein.com/s339990/images/logod.png?t=638754797850000000",
-      "stream_url": "https://live.hunter.fm/mpb_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "MPB"
-   },
-   {
-      "id": "17",
-      "name": "Rádio Hunter FM Pagode",
-      "icon_url": "https://cdn-profiles.tunein.com/s339995/images/logod.png?t=638754805520000000",
-      "stream_url": "https://live.hunter.fm/pagode_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Samba Pagode"
-   },
-   {
-      "id": "18",
-      "name": "Rádio Hunter FM Pisadinha",
-      "icon_url": "https://cdn-profiles.tunein.com/s339996/images/logod.png?t=638754806110000000",
-      "stream_url": "https://live.hunter.fm/pisadinha_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Hits, Eclética, Forró"
-   },
-   {
-      "id": "19",
-      "name": "Rádio Hunter FM Pop",
-      "icon_url": "https://cdn-profiles.tunein.com/s268377/images/logod.jpg?t=637848737910000000",
-      "stream_url": "https://live.hunter.fm/pop_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Jovem, Pop"
-   },
-   {
-      "id": "20",
-      "name": "Rádio Hunter FM Pop2K",
-      "icon_url": "https://cdn-profiles.tunein.com/s268573/images/logod.jpg?t=637849741080000000",
-      "stream_url": "https://live.hunter.fm/pop2k_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Hits, CHR, Pop"
-   },
-   {
-      "id": "21",
-      "name": "Rádio Hunter FM Rock",
-      "icon_url": "https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
-      "stream_url": "https://live.hunter.fm/rock_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Rock"
-   },
-   {
-      "id": "22",
-      "name": "Rádio Hunter FM Sertanejo",
-      "icon_url": "https://cdn-profiles.tunein.com/s264202/images/logod.jpg?t=637849742660000000",
-      "stream_url": "https://live.hunter.fm/sertanejo_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Sertaneja"
-   },
-   {
-      "id": "23",
-      "name": "Rádio Hunter FM Tropical",
-      "icon_url": "https://cdn-profiles.tunein.com/s291048/images/logod.jpg?t=637849739680000000",
-      "stream_url": "https://live.hunter.fm/tropical_normal",
-      "description": "Brasília / DF - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Dance"
-   },
-   {
-      "id": "24",
-      "name": "Rádio Paradise Mellow Mix",
-      "icon_url": "https://cdn-profiles.tunein.com/s308828/images/logod.png?t=638134678760000000",
-      "stream_url": "http://stream.radioparadise.com/mellow-64",
-      "description": "Eureka / CA - Estados Unidos",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Adulta, Classic Rock, Soft Rock"
-   },
-   {
-      "id": "25",
-      "name": "Rádio Rota 99",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio37639_1518119363.jpg",
-      "stream_url": "https://servidor34-3.brlogic.com:8068/live",
-      "description": "Curitiba / PR - Brasil",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "Classic Rock, Blues"
-   },
-   {
-      "id": "26",
-      "name": "Rádio 98 FM",
-      "icon_url": "https://cdn-profiles.tunein.com/s16621/images/logod.png?t=638518780430000000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "98.9 FM",
-      "genre": "Hits, Eclética, Jovem"
-   },
-   {
-      "id": "27",
-      "name": "Rádio Alpha",
-      "icon_url": "https://img.radios.com.br/radio/md/radio192968_1639057143.png",
-      "stream_url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "90.1 FM",
-      "genre": "Flashback, Adulta"
-   },
-   {
-      "id": "28",
-      "name": "Rádio Antena 1",
-      "icon_url": "https://cdn-profiles.tunein.com/s67624/images/logod.jpg?t=637382805460000000",
-      "stream_url": "https://antenaone.crossradio.com.br/stream/1;",
-      "description": "São Paulo / SP - Brasil",
-      "band": "FM",
-      "MHz": "94.7 FM",
-      "genre": "Flashback, Adulta"
-   },
-   {
-      "id": "29",
-      "name": "Rádio Atlântida ",
-      "icon_url": "https://cdn-profiles.tunein.com/s104924/images/logod.png?t=636324350151570000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.aac",
-      "description": "Porto Alegre / RS - Brasil",
-      "band": "FM",
-      "MHz": "94.3 FM",
-      "genre": "Pop-Rock"
-   },
-   {
-      "id": "30",
-      "name": "Rádio Banda B",
-      "icon_url": "https://cdn-profiles.tunein.com/s98361/images/logod.jpg?t=636916428500000000",
-      "stream_url": "https://ice.fabricahost.com.br/bandabctb",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "89.7 FM",
-      "genre": "Jornalismo, Popular"
-   },
-   {
-      "id": "31",
-      "name": "Rádio BandNews",
-      "icon_url": "https://cdn-profiles.tunein.com/s98817/images/logod.png?t=637107851280000000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_CTBAAC.aac",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "96.3 FM",
-      "genre": "Jornalismo, Esportes, Automobilismo"
-   },
-   {
-      "id": "32",
-      "name": "Rádio BBN",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio8826_1580130163.jpg",
-      "stream_url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "92.3 FM",
-      "genre": "Gospel"
-   },
-   {
-      "id": "33",
-      "name": "Rádio Caiobá",
-      "icon_url": "https://img.radios.com.br/radio/md/radio11064_1698666306.jpg",
-      "stream_url": "https://servidor35-3.brlogic.com:7094/live",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "102.3 FM",
-      "genre": "Hits, Pop-Rock, Eclética"
-   },
-   {
-      "id": "34",
-      "name": "Rádio CBN Curitiba",
-      "icon_url": "https://cdn-profiles.tunein.com/s17688/images/logod.png?t=636682744031000000",
-      "stream_url": "https://ice.fabricahost.com.br/cbncuritiba",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "95.1 FM",
-      "genre": "Jornalismo, Futebol, Debates e Entrevistas"
-   },
-   {
-      "id": "35",
-      "name": "Rádio Classic Pan",
-      "icon_url": "https://cdn-profiles.tunein.com/s143777/images/logod.png?t=638309618620000000",
-      "stream_url": "https://stream.zeno.fm/rtk4pzcome3vv",
-      "description": "São Paulo / SP - Brasil",
-      "band": "FM",
-      "MHz": "76.7 FM",
-      "genre": "Flashback, Adulta, Classic Hits"
-   },
-   {
-      "id": "36",
-      "name": "Rádio Clube",
-      "icon_url": "https://img.radios.com.br/radio/md/radio11734_1700654890.png",
-      "stream_url": "https://8241.brasilstream.com.br/stream",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "101.5 FM",
-      "genre": "Hits, Sertaneja, Popular"
-   },
-   {
-      "id": "37",
-      "name": "Rádio Colombo",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
-      "stream_url": "http://11.stmip.net:8698/stream",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "93.3 FM",
-      "genre": "Sertaneja, Popular, Adulta"
-   },
-   {
-      "id": "38",
-      "name": "Rádio Difusora",
-      "icon_url": "https://cdn-profiles.tunein.com/s128963/images/logod.jpg?t=638846748050000000",
-      "stream_url": "https://servidor22-4.brlogic.com:8270/live",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "101.9 FM",
-      "genre": "Adulta, MPB, Noticiários"
-   },
-   {
-      "id": "39",
-      "name": "Rádio Estação Primeira",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio13214_1733173790.jpg",
-      "stream_url": "http://cast.youngtech.radio.br:8550/radio",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "85.3 FM",
-      "genre": "Pop-Rock, Rock, Jovem"
-   },
-   {
-      "id": "40",
-      "name": "Rádio Evangelizar",
-      "icon_url": "https://cdn-profiles.tunein.com/s97373/images/logod.jpg?t=638290619660000000",
-      "stream_url": "https://8241.brasilstream.com.br/stream?origem=radios.com.br",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "90.7 FM",
-      "genre": "Católica"
-   },
-   {
-      "id": "41",
-      "name": "Rádio Evangelizar Easy",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio42806_1731954470.png",
-      "stream_url": "https://8272.brasilstream.com.br/stream?origem=radios.com.br",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "96.7 FM",
-      "genre": "Católica"
-   },
-   {
-      "id": "42",
-      "name": "Rádio Evangelizar Pop",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio72767_1732542125.png",
-      "stream_url": "https://8239.brasilstream.com.br/stream?origem=radios.com.br",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "99.5 FM",
-      "genre": "Católica"
-   },
-   {
-      "id": "43",
-      "name": "Rádio Feliz",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio25604_1439401624.jpg",
-      "stream_url": "https://usa2.fastcast4u.com/proxy/fm00?mp=/1",
-      "description": "Curitiba / PR - Brasil",
-      "band": "FM",
-      "MHz": "95.7 FM",
-      "genre": "Gospel"
-   },
-   {
-      "id": "44",
+      "id": "07",
       "name": "Rádio Globo",
       "icon_url": "https://cdn-profiles.tunein.com/s7065/images/logod.png?t=637971295200000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
@@ -440,7 +70,387 @@
       "genre": "Popular, Esportes, Debates e Entrevistas"
    },
    {
+      "id": "08",
+      "name": "Rádio Paradise Mellow Mix",
+      "icon_url": "https://cdn-profiles.tunein.com/s308828/images/logod.png?t=638134678760000000",
+      "stream_url": "http://stream.radioparadise.com/mellow-64",
+      "description": "Eureka / CA - Estados Unidos",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Adulta, Classic Rock, Soft Rock"
+   },
+   {
+      "id": "09",
+      "name": "Rádio Rota 99",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio37639_1518119363.jpg",
+      "stream_url": "https://servidor34-3.brlogic.com:8068/live",
+      "description": "Curitiba / PR - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Classic Rock, Blues"
+   },
+   {
+      "id": "10",
+      "name": "Rádio Hunter FM 80s",
+      "icon_url": "https://cdn-profiles.tunein.com/s309441/images/logod.jpg?t=638112998530000000",
+      "stream_url": "https://live.hunter.fm/80s_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Oldies, Adulta"
+   },
+   {
+      "id": "11",
+      "name": "Rádio Hunter FM Gospel",
+      "icon_url": "https://cdn-profiles.tunein.com/s339991/images/logod.png?t=638754799750000000",
+      "stream_url": "https://live.hunter.fm/gospel_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Gospel"
+   },
+   {
+      "id": "12",
+      "name": "Rádio Hunter FM Hits Brasil",
+      "icon_url": "https://cdn-profiles.tunein.com/s339994/images/logod.png?t=638754803670000000",
+      "stream_url": "https://live.hunter.fm/hitsbrasil_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Hits, CHR, Pop"
+   },
+   {
+      "id": "13",
+      "name": "Rádio Hunter FM K-pop",
+      "icon_url": "https://cdn-profiles.tunein.com/s339993/images/logod.png?t=638754802220000000",
+      "stream_url": "https://live.hunter.fm/kpop_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "K-pop"
+   },
+   {
+      "id": "14",
+      "name": "Rádio Hunter FM Lo-Fi",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio120432_1645023325.jpg",
+      "stream_url": "https://live.hunter.fm/lofi_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Hip-Hop"
+   },
+   {
+      "id": "15",
+      "name": "Rádio Hunter FM Master",
+      "icon_url": "https://cdn-profiles.tunein.com/s339858/images/logod.png?t=638753127390000000",
+      "stream_url": "https://live.hunter.fm/master_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Easy Listening"
+   },
+   {
+      "id": "16",
+      "name": "Rádio Hunter FM Moda Sertaneja",
+      "icon_url": "https://cdn-profiles.tunein.com/s339992/images/logod.png?t=638754801020000000",
+      "stream_url": "https://live.hunter.fm/modasertaneja_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Sertaneja, Sertanejo Raiz"
+   },
+   {
+      "id": "17",
+      "name": "Rádio Hunter FM MPB",
+      "icon_url": "https://cdn-profiles.tunein.com/s339990/images/logod.png?t=638754797850000000",
+      "stream_url": "https://live.hunter.fm/mpb_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "MPB"
+   },
+   {
+      "id": "18",
+      "name": "Rádio Hunter FM Pagode",
+      "icon_url": "https://cdn-profiles.tunein.com/s339995/images/logod.png?t=638754805520000000",
+      "stream_url": "https://live.hunter.fm/pagode_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Samba Pagode"
+   },
+   {
+      "id": "19",
+      "name": "Rádio Hunter FM Pisadinha",
+      "icon_url": "https://cdn-profiles.tunein.com/s339996/images/logod.png?t=638754806110000000",
+      "stream_url": "https://live.hunter.fm/pisadinha_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Hits, Eclética, Forró"
+   },
+   {
+      "id": "20",
+      "name": "Rádio Hunter FM Pop",
+      "icon_url": "https://cdn-profiles.tunein.com/s268377/images/logod.jpg?t=637848737910000000",
+      "stream_url": "https://live.hunter.fm/pop_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Jovem, Pop"
+   },
+   {
+      "id": "21",
+      "name": "Rádio Hunter FM Pop2K",
+      "icon_url": "https://cdn-profiles.tunein.com/s268573/images/logod.jpg?t=637849741080000000",
+      "stream_url": "https://live.hunter.fm/pop2k_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Hits, CHR, Pop"
+   },
+   {
+      "id": "22",
+      "name": "Rádio Hunter FM Rock",
+      "icon_url": "https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",
+      "stream_url": "https://live.hunter.fm/rock_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Rock"
+   },
+   {
+      "id": "23",
+      "name": "Rádio Hunter FM Sertanejo",
+      "icon_url": "https://cdn-profiles.tunein.com/s264202/images/logod.jpg?t=637849742660000000",
+      "stream_url": "https://live.hunter.fm/sertanejo_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Sertaneja"
+   },
+   {
+      "id": "24",
+      "name": "Rádio Hunter FM Tropical",
+      "icon_url": "https://cdn-profiles.tunein.com/s291048/images/logod.jpg?t=637849739680000000",
+      "stream_url": "https://live.hunter.fm/tropical_normal",
+      "description": "Brasília / DF - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Dance"
+   },
+   {
+      "id": "25",
+      "name": "Rádio A Estilo Gaúcho FM",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio100765_1734611287.jpg",
+      "stream_url": "http://stm12.painelcast.com:7402/stream",
+      "description": "Curitiba / PR - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Gauchesca"
+   },
+   {
+      "id": "26",
+      "name": "Rádio Baú Caipira",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio226172_1694693442.png",
+      "stream_url": "https://srv2.braudio.com.br/7004/stream",
+      "description": "Curitiba / PR - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Sertaneja"
+   },
+   {
+      "id": "27",
+      "name": "Rádio CAP",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
+      "stream_url": "https://servidor37.brlogic.com:8002/live",
+      "description": "Curitiba / PR - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Pop-Rock, Rock 'n' Roll, Futebol"
+   },
+   {
+      "id": "28",
+      "name": "Rádio Coxa",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
+      "stream_url": "http://centova.serversp.com:8030/stream",
+      "description": "Curitiba / PR - Brasil",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Futebol"
+   },
+   {
+      "id": "29",
+      "name": "Rádio 98 FM",
+      "icon_url": "https://cdn-profiles.tunein.com/s16621/images/logod.png?t=638518780430000000",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "98.9 FM",
+      "genre": "Hits, Eclética, Jovem"
+   },
+   {
+      "id": "30",
+      "name": "Rádio Alpha",
+      "icon_url": "https://img.radios.com.br/radio/md/radio192968_1639057143.png",
+      "stream_url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "90.1 FM",
+      "genre": "Flashback, Adulta"
+   },
+   {
+      "id": "31",
+      "name": "Rádio Antena 1",
+      "icon_url": "https://cdn-profiles.tunein.com/s67624/images/logod.jpg?t=637382805460000000",
+      "stream_url": "https://antenaone.crossradio.com.br/stream/1;",
+      "description": "São Paulo / SP - Brasil",
+      "band": "FM",
+      "MHz": "94.7 FM",
+      "genre": "Flashback, Adulta"
+   },
+   {
+      "id": "32",
+      "name": "Rádio Atlântida ",
+      "icon_url": "https://cdn-profiles.tunein.com/s104924/images/logod.png?t=636324350151570000",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.aac",
+      "description": "Porto Alegre / RS - Brasil",
+      "band": "FM",
+      "MHz": "94.3 FM",
+      "genre": "Pop-Rock"
+   },
+   {
+      "id": "33",
+      "name": "Rádio Banda B",
+      "icon_url": "https://cdn-profiles.tunein.com/s98361/images/logod.jpg?t=636916428500000000",
+      "stream_url": "https://ice.fabricahost.com.br/bandabctb",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "89.7 FM",
+      "genre": "Jornalismo, Popular"
+   },
+   {
+      "id": "34",
+      "name": "Rádio BandNews",
+      "icon_url": "https://cdn-profiles.tunein.com/s98817/images/logod.png?t=637107851280000000",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_CTBAAC.aac",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "96.3 FM",
+      "genre": "Jornalismo, Esportes, Automobilismo"
+   },
+   {
+      "id": "35",
+      "name": "Rádio BBN",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio8826_1580130163.jpg",
+      "stream_url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "92.3 FM",
+      "genre": "Gospel"
+   },
+   {
+      "id": "36",
+      "name": "Rádio Caiobá",
+      "icon_url": "https://img.radios.com.br/radio/md/radio11064_1698666306.jpg",
+      "stream_url": "https://servidor35-3.brlogic.com:7094/live",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "102.3 FM",
+      "genre": "Hits, Pop-Rock, Eclética"
+   },
+   {
+      "id": "37",
+      "name": "Rádio CBN Curitiba",
+      "icon_url": "https://cdn-profiles.tunein.com/s17688/images/logod.png?t=636682744031000000",
+      "stream_url": "https://ice.fabricahost.com.br/cbncuritiba",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "95.1 FM",
+      "genre": "Jornalismo, Futebol, Debates e Entrevistas"
+   },
+   {
+      "id": "38",
+      "name": "Rádio Clube",
+      "icon_url": "https://img.radios.com.br/radio/md/radio11734_1700654890.png",
+      "stream_url": "https://8241.brasilstream.com.br/stream",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "101.5 FM",
+      "genre": "Hits, Sertaneja, Popular"
+   },
+   {
+      "id": "39",
+      "name": "Rádio Colombo",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
+      "stream_url": "http://11.stmip.net:8698/stream",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "93.3 FM",
+      "genre": "Sertaneja, Popular, Adulta"
+   },
+   {
+      "id": "40",
+      "name": "Rádio Difusora",
+      "icon_url": "https://cdn-profiles.tunein.com/s128963/images/logod.jpg?t=638846748050000000",
+      "stream_url": "https://servidor22-4.brlogic.com:8270/live",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "101.9 FM",
+      "genre": "Adulta, MPB, Noticiários"
+   },
+   {
+      "id": "41",
+      "name": "Rádio Estação Primeira",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio13214_1733173790.jpg",
+      "stream_url": "http://cast.youngtech.radio.br:8550/radio",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "85.3 FM",
+      "genre": "Pop-Rock, Rock, Jovem"
+   },
+   {
+      "id": "42",
+      "name": "Rádio Evangelizar",
+      "icon_url": "https://cdn-profiles.tunein.com/s97373/images/logod.jpg?t=638290619660000000",
+      "stream_url": "https://8241.brasilstream.com.br/stream?origem=radios.com.br",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "90.7 FM",
+      "genre": "Católica"
+   },
+   {
+      "id": "43",
+      "name": "Rádio Evangelizar Easy",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio42806_1731954470.png",
+      "stream_url": "https://8272.brasilstream.com.br/stream?origem=radios.com.br",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "96.7 FM",
+      "genre": "Católica"
+   },
+   {
+      "id": "44",
+      "name": "Rádio Evangelizar Pop",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio72767_1732542125.png",
+      "stream_url": "https://8239.brasilstream.com.br/stream?origem=radios.com.br",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "99.5 FM",
+      "genre": "Católica"
+   },
+   {
       "id": "45",
+      "name": "Rádio Feliz",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio25604_1439401624.jpg",
+      "stream_url": "https://usa2.fastcast4u.com/proxy/fm00?mp=/1",
+      "description": "Curitiba / PR - Brasil",
+      "band": "FM",
+      "MHz": "95.7 FM",
+      "genre": "Gospel"
+   },
+   {
+      "id": "46",
       "name": "Rádio Jovem Pan",
       "icon_url": "https://cdn-profiles.tunein.com/s139000/images/logod.png?t=638456144650000000",
       "stream_url": "https://r15.ciclano.io/proxy/radiofmi/stream",
@@ -450,7 +460,7 @@
       "genre": "Pop-Rock, Jovem"
    },
    {
-      "id": "46",
+      "id": "47",
       "name": "Rádio Jovem Pan News",
       "icon_url": "https://cdn-profiles.tunein.com/s341059/images/logod.png?t=638778226600000000",
       "stream_url": "https://r18.ciclano.io/proxy/jovempancuri/stream",
@@ -458,16 +468,6 @@
       "band": "FM",
       "MHz": "107.1 FM",
       "genre": "Jornalismo, Esportes, Futebol"
-   },
-   {
-      "id": "47",
-      "name": "Rádio Kiss",
-      "icon_url": "https://cdn-profiles.tunein.com/s6165/images/logod.png?t=636927382740000000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
-      "description": "São Paulo / SP - Brasil",
-      "band": "FM",
-      "MHz": "92.5 FM",
-      "genre": "Pop-Rock, Classic Rock"
    },
    {
       "id": "48",
