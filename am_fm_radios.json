@@ -1,9 +1,15 @@
 [
    {
       "id": "01",
+<<<<<<< HEAD
       "name": "Rádio Samba FM",
       "icon_url": "https://cdn-profiles.tunein.com/s199372/images/logod.png?t=638664938090000000",
       "stream_url": "https://hts05.brascast.com:12062/live",
+=======
+      "name": "Samba FM",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio15687_1566469194.jpg",
+      "stream_url": "https://hts01.brascast.com:8428/live",
+>>>>>>> 49b9c2454c86a213986cfbe8e1d695500c4b2e33
       "description": "São Paulo / SP",
       "band": "WEB",
       "MHz": "WEB",
