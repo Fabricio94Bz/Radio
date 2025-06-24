@@ -2,7 +2,7 @@
    {
       "id": "01",
       "name": "Rádio Samba FM",
-      "icon_url": "https://cdn-profiles.tunein.com/s199372/images/logod.png?t=638664938090000000",
+      "icon_url": "https://img.radios.com.br/radio/lg/radio15687_1566469194.jpg",
       "stream_url": "https://hts05.brascast.com:12062/live",
       "description": "São Paulo / SP",
       "band": "WEB",
@@ -134,7 +134,7 @@
    {
       "id": "13",
       "name": "Rádio Geração Sertaneja",
-      "icon_url": "https://cdn-profiles.tunein.com/s296742/images/logod.png?t=638574452140000000",
+      "icon_url": "https://cdn-profiles.tunein.com/s295776/images/logod.png?t=637805874450000000",
       "stream_url": "https://stream.geracao.live/listen/sertaneja/stream",
       "description": "Limeira / SP",
       "band": "WEB",
