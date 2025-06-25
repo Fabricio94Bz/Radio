@@ -25,7 +25,7 @@
       "id": "03",
       "name": "Rádio Alternativa Rock",
       "icon_url": "https://img.radios.com.br/radio/lg/radio45206_1683137299.jpg",
-      "stream_url": "https://s25.maxc",
+      "stream_url": "https://s25.maxcast.com.br:8080/live",
       "description": "Curitiba / PR",
       "band": "WEB",
       "MHz": "WEB",
