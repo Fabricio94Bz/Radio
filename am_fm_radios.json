@@ -1,7 +1,7 @@
 [
    {
       "id": "01",
-      "name": "Radio Saudade",
+      "name": "Rádio Saudade",
       "icon_url": "https://cdn-profiles.tunein.com/s85253/images/logod.png?t=637620476500000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.br",
       "description": "Santos / SP",
@@ -23,17 +23,6 @@
    },
    {
       "id": "03",
-      "name": "Rádio Qmusic",
-      "icon_url": "https://cdn-profiles.tunein.com/s87683/images/logod.png?t=637242026890000000",
-      "stream_url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
-      "description": "Hilversum / NL",
-      "band": "WEB",
-      "MHz": "WEB",
-      "genre": "CHR",
-      "website": "https://qmusic.nl/"
-   },
-   {
-      "id": "04",
       "name": "Rádio Alternativa Rock",
       "icon_url": "https://img.radios.com.br/radio/lg/radio45206_1683137299.jpg",
       "stream_url": "https://s25.maxcast.com.br:8080/live",
@@ -44,7 +33,7 @@
       "website": "https://radioalternativarock.com/"
    },
    {
-      "id": "05",
+      "id": "04",
       "name": "Rádio ELECTRO BEATs World",
       "icon_url": "https://cdn-profiles.tunein.com/s337219/images/logod.jpg?t=638842314380000000",
       "stream_url": "https://stream.zeno.fm/r4rvnfe5iqbuv",
@@ -55,7 +44,7 @@
       "website": ""
    },
    {
-      "id": "06",
+      "id": "05",
       "name": "Rádio Samba FM",
       "icon_url": "https://img.radios.com.br/radio/lg/radio15687_1566469194.jpg",
       "stream_url": "https://hts01.brascast.com:8428/live",
@@ -66,7 +55,7 @@
       "website": "https://sambafm.com.br/"
    },
    {
-      "id": "07",
+      "id": "06",
       "name": "Rádio Kiss",
       "icon_url": "https://cdn-profiles.tunein.com/s6165/images/logod.png?t=636927382740000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
@@ -77,7 +66,7 @@
       "website": "https://kissfm.com.br/"
    },
    {
-      "id": "08",
+      "id": "07",
       "name": "Rádio Classic Pan",
       "icon_url": "https://img.radios.com.br/radio/lg/radio107070_1744266042.png",
       "stream_url": "https://stream.zeno.fm/rtk4pzcome3vv",
@@ -88,7 +77,7 @@
       "website": "https://jovempan.com.br/"
    },
    {
-      "id": "09",
+      "id": "08",
       "name": "Rádio 91 Rock FM",
       "icon_url": "https://cdn-radiotime-logos.tunein.com/s126555d.png",
       "stream_url": "https://servidor40.brlogic.com:8044/live",
@@ -99,7 +88,7 @@
       "website": "https://91rock.com.br/"
    },
    {
-      "id": "10",
+      "id": "09",
       "name": "Rádio Globo",
       "icon_url": "https://cdn-profiles.tunein.com/s7065/images/logod.png?t=637971295200000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
@@ -110,7 +99,7 @@
       "website": "https://radioglobo.globo.com/"
    },
    {
-      "id": "11",
+      "id": "10",
       "name": "Rádio Rota 99",
       "icon_url": "https://img.radios.com.br/radio/lg/radio37639_1518119363.jpg",
       "stream_url": "https://servidor34-3.brlogic.com:8068/live",
@@ -121,7 +110,7 @@
       "website": "https://rota99webradio.com/"
    },
    {
-      "id": "12",
+      "id": "11",
       "name": "Rádio Black Chic",
       "icon_url": "https://cdn-profiles.tunein.com/s251062/images/logod.png?t=637797473930000000",
       "stream_url": "https://s42.maxcast.com.br:8324/live",
@@ -130,6 +119,17 @@
       "MHz": "WEB",
       "genre": "Flashback, Soul / R&B, Hits Africanos",
       "website": "https://radioblackchic.com/"
+   },
+   {
+      "id": "12",
+      "name": "Rádio Bossa Jazz Brasil",
+      "icon_url": "https://cdn-profiles.tunein.com/s182075/images/logod.jpg?t=637424398910000000",
+      "stream_url": "https://centova5.transmissaodigital.com:20104/live",
+      "description": "Santos / SP",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "Jazz, Bossa Nova",
+      "website": "https://bossajazzbrasil.com/"
    },
    {
       "id": "13",
@@ -551,6 +551,17 @@
    },
    {
       "id": "51",
+      "name": "Rádio Qmusic",
+      "icon_url": "https://cdn-profiles.tunein.com/s87683/images/logod.png?t=637242026890000000",
+      "stream_url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+      "description": "Hilversum / NL",
+      "band": "WEB",
+      "MHz": "WEB",
+      "genre": "CHR",
+      "website": "https://qmusic.nl/"
+   },
+   {
+      "id": "52",
       "name": "Rádio ABC Lounge Jazz",
       "icon_url": "https://cdn-profiles.tunein.com/s127653/images/logod.png?t=637100132360000000",
       "stream_url": "https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1",
@@ -561,7 +572,7 @@
       "website": "https://www.jazz24.org/"
    },
    {
-      "id": "52",
+      "id": "53",
       "name": "Rádio CAP",
       "icon_url": "https://img.radios.com.br/radio/lg/radio35669_1701780556.png",
       "stream_url": "https://servidor37.brlogic.com:8002/live",
@@ -572,7 +583,7 @@
       "website": "https://www.athletico.com.br/"
    },
    {
-      "id": "53",
+      "id": "54",
       "name": "Rádio Coxa",
       "icon_url": "https://img.radios.com.br/radio/lg/radio109610_1558707727.jpg",
       "stream_url": "http://centova.serversp.com:8030/stream",
@@ -583,7 +594,7 @@
       "website": "https://www.coritiba.com.br/"
    },
    {
-      "id": "54",
+      "id": "55",
       "name": "Rádio 98 FM",
       "icon_url": "https://cdn-profiles.tunein.com/s16621/images/logod.png?t=638518780430000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac?dist=site",
@@ -594,7 +605,7 @@
       "website": "https://www.98fmcuritiba.com.br/"
    },
    {
-      "id": "55",
+      "id": "56",
       "name": "Rádio Alpha",
       "icon_url": "https://img.radios.com.br/radio/md/radio192968_1639057143.png",
       "stream_url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
@@ -605,7 +616,7 @@
       "website": "https://alphafm.com.br/"
    },
    {
-      "id": "56",
+      "id": "57",
       "name": "Rádio Antena 1",
       "icon_url": "https://cdn-profiles.tunein.com/s67624/images/logod.jpg?t=637382805460000000",
       "stream_url": "https://antenaone.crossradio.com.br/stream/1;",
@@ -616,7 +627,7 @@
       "website": "https://www.antena1.com.br/"
    },
    {
-      "id": "57",
+      "id": "58",
       "name": "Rádio Atlântida",
       "icon_url": "https://cdn-profiles.tunein.com/s104924/images/logod.png?t=636324350151570000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.aac",
@@ -627,7 +638,7 @@
       "website": "https://atl.clicrbs.com.br/"
    },
    {
-      "id": "58",
+      "id": "59",
       "name": "Rádio Banda B",
       "icon_url": "https://cdn-profiles.tunein.com/s98361/images/logod.jpg?t=636916428500000000",
       "stream_url": "https://ice.fabricahost.com.br/bandabctb",
@@ -638,7 +649,7 @@
       "website": "https://www.bandab.com.br/"
    },
    {
-      "id": "59",
+      "id": "60",
       "name": "Rádio BandNews",
       "icon_url": "https://cdn-profiles.tunein.com/s98817/images/logod.png?t=637107851280000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_CTBAAC.aac",
@@ -649,7 +660,7 @@
       "website": "https://www.band.com.br/"
    },
    {
-      "id": "60",
+      "id": "61",
       "name": "Rádio BBN",
       "icon_url": "https://img.radios.com.br/radio/lg/radio8826_1580130163.jpg",
       "stream_url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
@@ -660,7 +671,7 @@
       "website": "https://bbn1.bbnradio.org/"
    },
    {
-      "id": "61",
+      "id": "62",
       "name": "Rádio Caiobá",
       "icon_url": "https://img.radios.com.br/radio/md/radio11064_1698666306.jpg",
       "stream_url": "https://servidor35-3.brlogic.com:7094/live",
@@ -671,7 +682,7 @@
       "website": "https://caiobafm.com.br/"
    },
    {
-      "id": "62",
+      "id": "63",
       "name": "Rádio CBN Curitiba",
       "icon_url": "https://cdn-profiles.tunein.com/s17688/images/logod.png?t=636682744031000000",
       "stream_url": "https://ice.fabricahost.com.br/cbncuritiba",
@@ -682,7 +693,7 @@
       "website": "https://cbncuritiba.com.br/"
    },
    {
-      "id": "63",
+      "id": "64",
       "name": "Rádio Clube",
       "icon_url": "https://img.radios.com.br/radio/md/radio11734_1700654890.png",
       "stream_url": "https://8241.brasilstream.com.br/stream",
@@ -693,7 +704,7 @@
       "website": "https://clubefm.com/"
    },
    {
-      "id": "64",
+      "id": "65",
       "name": "Rádio Colombo",
       "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
       "stream_url": "http://11.stmip.net:8698/stream",
@@ -704,7 +715,7 @@
       "website": "https://supercolombo.com.br/"
    },
    {
-      "id": "65",
+      "id": "66",
       "name": "Rádio Difusora",
       "icon_url": "https://cdn-profiles.tunein.com/s128963/images/logod.jpg?t=638846748050000000",
       "stream_url": "https://servidor22-4.brlogic.com:8270/live",
@@ -715,7 +726,7 @@
       "website": "https://difusorafmcuritiba.com.br/"
    },
    {
-      "id": "66",
+      "id": "67",
       "name": "Rádio Estação Primeira",
       "icon_url": "https://img.radios.com.br/radio/lg/radio13214_1733173790.jpg",
       "stream_url": "http://cast.youngtech.radio.br:8550/radio",
@@ -726,7 +737,7 @@
       "website": "https://estacaoprimeira.com.br/"
    },
    {
-      "id": "67",
+      "id": "68",
       "name": "Rádio Evangelizar",
       "icon_url": "https://cdn-profiles.tunein.com/s97373/images/logod.jpg?t=638290619660000000",
       "stream_url": "https://8241.brasilstream.com.br/stream?origem=radios.com.br",
@@ -737,7 +748,7 @@
       "website": ""
    },
    {
-      "id": "68",
+      "id": "69",
       "name": "Rádio Evangelizar Easy",
       "icon_url": "https://img.radios.com.br/radio/lg/radio42806_1731954470.png",
       "stream_url": "https://8272.brasilstream.com.br/stream?origem=radios.com.br",
@@ -748,7 +759,7 @@
       "website": ""
    },
    {
-      "id": "69",
+      "id": "70",
       "name": "Rádio Evangelizar Pop",
       "icon_url": "https://img.radios.com.br/radio/lg/radio72767_1732542125.png",
       "stream_url": "https://8239.brasilstream.com.br/stream?origem=radios.com.br",
@@ -759,7 +770,7 @@
       "website": ""
    },
    {
-      "id": "70",
+      "id": "71",
       "name": "Rádio Feliz",
       "icon_url": "https://img.radios.com.br/radio/lg/radio25604_1439401624.jpg",
       "stream_url": "https://usa2.fastcast4u.com/proxy/fm00?mp=/1",
@@ -770,7 +781,7 @@
       "website": ""
    },
    {
-      "id": "71",
+      "id": "72",
       "name": "Rádio Jovem Pan",
       "icon_url": "https://cdn-profiles.tunein.com/s139000/images/logod.png?t=638456144650000000",
       "stream_url": "https://r15.ciclano.io/proxy/radiofmi/stream",
@@ -781,7 +792,7 @@
       "website": ""
    },
    {
-      "id": "72",
+      "id": "73",
       "name": "Rádio Jovem Pan News",
       "icon_url": "https://cdn-profiles.tunein.com/s341059/images/logod.png?t=638778226600000000",
       "stream_url": "https://r18.ciclano.io/proxy/jovempancuri/stream",
@@ -792,7 +803,7 @@
       "website": ""
    },
    {
-      "id": "73",
+      "id": "74",
       "name": "Rádio Líder",
       "icon_url": "https://img.radios.com.br/radio/lg/radio65113_1691751582.jpg",
       "stream_url": "https://www.appradio.app:8210/live",
@@ -803,7 +814,7 @@
       "website": ""
    },
    {
-      "id": "74",
+      "id": "75",
       "name": "Rádio Mais",
       "icon_url": "https://img.radios.com.br/radio/lg/radio18046_1719930664.png",
       "stream_url": "https://ice.fabricahost.com.br/maispinhaispr",
@@ -814,7 +825,7 @@
       "website": ""
    },
    {
-      "id": "75",
+      "id": "76",
       "name": "Rádio Marumby",
       "icon_url": "https://img.radios.com.br/radio/lg/radio72835_1600078566.jpg",
       "stream_url": "https://live.paineldj.com.br/proxy/marumbyfm885?mp=/stream",
@@ -825,7 +836,7 @@
       "website": ""
    },
    {
-      "id": "76",
+      "id": "77",
       "name": "Rádio Massa",
       "icon_url": "https://cdn-profiles.tunein.com/s127384/images/logod.png?t=638197473490000000",
       "stream_url": "https://stm01.virtualcast.com.br:8118/massacuritiba",
@@ -836,7 +847,7 @@
       "website": ""
    },
    {
-      "id": "77",
+      "id": "78",
       "name": "Rádio Mercosul",
       "icon_url": "https://cdn-profiles.tunein.com/s337304/images/logod.jpg?t=638719418460000000",
       "stream_url": "https://ice.fabricahost.com.br/redemercosulctba",
@@ -847,7 +858,7 @@
       "website": ""
    },
    {
-      "id": "78",
+      "id": "79",
       "name": "Rádio Mix",
       "icon_url": "https://cdn-profiles.tunein.com/s144359/images/logod.png?t=637865831080000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac",
@@ -858,7 +869,7 @@
       "website": ""
    },
    {
-      "id": "79",
+      "id": "80",
       "name": "Rádio Mundo Livre",
       "icon_url": "https://cdn-profiles.tunein.com/s97340/images/logod.png?t=638519046690000000",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac",
@@ -869,7 +880,7 @@
       "website": ""
    },
    {
-      "id": "80",
+      "id": "81",
       "name": "Rádio Nova Estação",
       "icon_url": "https://img.radios.com.br/radio/lg/radio250190_1723068024.jpg",
       "stream_url": "https://servidor39-3.brlogic.com:7094/live",
@@ -880,7 +891,7 @@
       "website": ""
    },
    {
-      "id": "81",
+      "id": "82",
       "name": "Rádio Novo Tempo",
       "icon_url": "https://img.radios.com.br/radio/lg/radio14187_1562334792.jpg",
       "stream_url": "https://stream.live.novotempo.com/radio/smil:rntCuritibaPR.smil/playlist.m3u8",
@@ -891,7 +902,7 @@
       "website": ""
    },
    {
-      "id": "82",
+      "id": "83",
       "name": "Rádio Ouro Verde Easy",
       "icon_url": "https://cdn-profiles.tunein.com/s10966/images/logod.jpg?t=638846748330000000",
       "stream_url": "https://servidor18-1.brlogic.com:7484/live",
@@ -902,7 +913,7 @@
       "website": ""
    },
    {
-      "id": "83",
+      "id": "84",
       "name": "Rádio Paraná Educativa",
       "icon_url": "https://img.radios.com.br/radio/lg/radio14231_1698754558.png",
       "stream_url": "https://play.wisestream.io/eparana",
@@ -913,7 +924,7 @@
       "website": ""
    },
    {
-      "id": "84",
+      "id": "85",
       "name": "Rádio Rede Aleluia",
       "icon_url": "https://img.radios.com.br/radio/lg/radio208391_1722882814.jpg",
       "stream_url": "https://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8",
@@ -924,7 +935,7 @@
       "website": ""
    },
    {
-      "id": "85",
+      "id": "86",
       "name": "Rádio Rock",
       "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
       "stream_url": "https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
@@ -935,7 +946,7 @@
       "website": ""
    },
    {
-      "id": "86",
+      "id": "87",
       "name": "Rádio Sara Brasil",
       "icon_url": "https://img.radios.com.br/radio/lg/radio14541_1641820167.png",
       "stream_url": "https://hts01.brascast.com:8012/live",
@@ -946,7 +957,7 @@
       "website": ""
    },
    {
-      "id": "87",
+      "id": "88",
       "name": "Rádio T",
       "icon_url": "https://cdn-profiles.tunein.com/s129018/images/logod.png?t=636358887963670000",
       "stream_url": "https://s1.mediacp.com.br:8984/stream",
@@ -957,7 +968,7 @@
       "website": ""
    },
    {
-      "id": "88",
+      "id": "89",
       "name": "Rádio Transamérica",
       "icon_url": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWB.mp3",
@@ -968,7 +979,7 @@
       "website": ""
    },
    {
-      "id": "89",
+      "id": "90",
       "name": "Rádio Uni",
       "icon_url": "https://img.radios.com.br/radio/lg/radio15288_1471951451.jpg",
       "stream_url": "http://cast62.sitehosting.com.br:8371/live",
@@ -979,7 +990,7 @@
       "website": ""
    },
    {
-      "id": "90",
+      "id": "91",
       "name": "Rádio Canção Nova",
       "icon_url": "https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
       "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
@@ -990,7 +1001,7 @@
       "website": ""
    },
    {
-      "id": "91",
+      "id": "92",
       "name": "Rádio Cultura",
       "icon_url": "https://img.radios.com.br/radio/lg/radio12410_1548763299.jpg",
       "stream_url": "https://mbetti.jmvstream.com/stream",
@@ -1001,7 +1012,7 @@
       "website": ""
    },
    {
-      "id": "92",
+      "id": "93",
       "name": "Rádio Deus é Amor",
       "icon_url": "https://img.radios.com.br/radio/lg/radio14748_1579779505.jpg",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PR_RADIOONLINEAAC_SC",
@@ -1012,7 +1023,7 @@
       "website": ""
    },
    {
-      "id": "93",
+      "id": "94",
       "name": "Rádio Marumby",
       "icon_url": "https://img.radios.com.br/radio/md/radio13816_1600078529.jpg",
       "stream_url": "http://sl.dnip.com.br:10174/stream",
@@ -1023,7 +1034,7 @@
       "website": ""
    },
    {
-      "id": "94",
+      "id": "95",
       "name": "Rádio Nacional",
       "icon_url": "https://img.radios.com.br/radio/lg/radio12186_1736972790.jpg",
       "stream_url": "https://stm17.xcast.com.br:12334/stream",
@@ -1034,7 +1045,7 @@
       "website": ""
    },
    {
-      "id": "95",
+      "id": "96",
       "name": "Rádio Paraná Educativa",
       "icon_url": "https://img.radios.com.br/radio/md/radio14230_1552651351.jpg",
       "stream_url": "http://200.189.113.201/stream/educativaam.mp3",
@@ -1045,7 +1056,7 @@
       "website": ""
    },
    {
-      "id": "96",
+      "id": "97",
       "name": "Rádio RB2",
       "icon_url": "https://img.radios.com.br/radio/lg/radio11824_1439401393.jpg",
       "stream_url": "https://stream1.svrdedicado.org/8030/stream",
@@ -1056,7 +1067,7 @@
       "website": ""
    },
    {
-      "id": "97",
+      "id": "98",
       "name": "Rádio Rede Aleluia",
       "icon_url": "https://img.radios.com.br/radio/lg/radio150353_1593116511.png",
       "stream_url": "http://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8",
@@ -1067,7 +1078,7 @@
       "website": ""
    },
    {
-      "id": "98",
+      "id": "99",
       "name": "Rádio Tropical Gospel",
       "icon_url": "https://img.radios.com.br/radio/lg/radio25564_1439401624.jpg",
       "stream_url": "https://stream3.svrdedicado.org/8096/stream",
