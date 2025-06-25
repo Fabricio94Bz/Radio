@@ -707,7 +707,7 @@
       "id": "65",
       "name": "Rádio Colombo",
       "icon_url": "https://img.radios.com.br/radio/lg/radio17905_1722588053.png",
-      "stream_url": "http://11.stmip.net:8698/stream",
+      "stream_url": "http://stm26.xcast.com.br:10966/stream",
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "93.3 FM",
