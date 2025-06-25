@@ -3,7 +3,7 @@
       "id": "01",
       "name": "Rádio Saudade",
       "icon_url": "https://cdn-profiles.tunein.com/s85253/images/logod.png?t=637620476500000000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.br",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.brx",
       "description": "Santos / SP",
       "band": "WEB",
       "MHz": "WEB",
