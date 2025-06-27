@@ -2,7 +2,7 @@
    "SP": {
       "Limeira": [
          {
-            "id": "008",
+            "id": "001",
             "name": "Rádio Geração Rock",
             "icon_url": "https://img.radios.com.br/radio/lg/radio39907_1646919574.png",
             "stream_url": "https://stream.geracao.live/listen/rock/stream",
@@ -13,7 +13,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "009",
+            "id": "002",
             "name": "Rádio Geração Eletrônica",
             "icon_url": "https://cdn-profiles.tunein.com/s281818/images/logod.jpg?t=638573333730000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/eletronica/stream",
@@ -24,7 +24,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "010",
+            "id": "003",
             "name": "Rádio Geração Sertaneja",
             "icon_url": "https://cdn-profiles.tunein.com/s295776/images/logod.png?t=637805874450000000",
             "stream_url": "https://stream.geracao.live/listen/sertaneja/stream",
@@ -35,7 +35,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "011",
+            "id": "004",
             "name": "Rádio Geração Sertanejo Raiz",
             "icon_url": "https://cdn-profiles.tunein.com/s281907/images/logod.png?t=637825514770000000",
             "stream_url": "https://stream.geracao.live/listen/raiz/stream",
@@ -46,7 +46,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "012",
+            "id": "005",
             "name": "Rádio Geração Samba e Pagode",
             "icon_url": "https://cdn-profiles.tunein.com/s276220/images/logod.png?t=637805875430000000",
             "stream_url": "https://stream.geracao.live/listen/sambaepagode/stream",
@@ -57,7 +57,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "013",
+            "id": "006",
             "name": "Rádio Geração Hits",
             "icon_url": "https://cdn-profiles.tunein.com/s296742/images/logod.png?t=638574452140000000",
             "stream_url": "https://stream.geracao.live/listen/radio_geral/stream",
@@ -68,7 +68,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "014",
+            "id": "007",
             "name": "Rádio Geração Hip-Hop Rap",
             "icon_url": "https://cdn-profiles.tunein.com/s278573/images/logod.png?t=637834790490000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/hiphoprap/stream",
@@ -79,7 +79,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "015",
+            "id": "008",
             "name": "Rádio Geração Anos 80s Flashback",
             "icon_url": "https://cdn-profiles.tunein.com/s296743/images/logod.png?t=637834790150000000",
             "stream_url": "https://stream.geracao.live/listen/anos80/stream",
@@ -90,7 +90,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "016",
+            "id": "009",
             "name": "Rádio Geração Sertanejona",
             "icon_url": "https://cdn-profiles.tunein.com/s276218/images/logod.png?t=638573439960000000",
             "stream_url": "https://stream.geracao.live/listen/sertanejouniversitario/stream",
@@ -101,7 +101,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "017",
+            "id": "010",
             "name": "Rádio Geração Funk",
             "icon_url": "https://cdn-profiles.tunein.com/s276217/images/logod.png?t=637829489830000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/funk/stream",
@@ -112,7 +112,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "018",
+            "id": "011",
             "name": "Rádio Geração Por Amor",
             "icon_url": "https://cdn-profiles.tunein.com/s296741/images/logod.png?t=637832230140000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/poramor/stream",
@@ -123,7 +123,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "019",
+            "id": "012",
             "name": "Rádio Geração in Love",
             "icon_url": "https://cdn-profiles.tunein.com/s278574/images/logod.png?t=637834789760000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/inlove/stream",
@@ -134,7 +134,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "020",
+            "id": "013",
             "name": "Rádio Geração Pop",
             "icon_url": "https://cdn-profiles.tunein.com/s296744/images/logod.png?t=637825382000000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/pop/stream",
@@ -145,7 +145,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "021",
+            "id": "014",
             "name": "Rádio Geração MPB",
             "icon_url": "https://cdn-profiles.tunein.com/s276215/images/logod.png?t=637825413830000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/mpb/stream",
@@ -156,7 +156,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "022",
+            "id": "015",
             "name": "Rádio Geração Kids",
             "icon_url": "https://cdn-profiles.tunein.com/s296747/images/logod.png?t=637832231560000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/kids/stream",
@@ -167,7 +167,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "023",
+            "id": "016",
             "name": "Rádio Geração Marília",
             "icon_url": "https://cdn-profiles.tunein.com/s295777/images/logod.png?t=637825518810000000",
             "stream_url": "https://servidor.geracaoradios.com/listen/marilia/radio",
@@ -178,7 +178,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "024",
+            "id": "017",
             "name": "Rádio Geração Gospel",
             "icon_url": "https://img.radios.com.br/radio/lg/radio39949_1646245473.jpg",
             "stream_url": "https://servidor.geracaoradios.com/listen/gospel/stream",
@@ -189,7 +189,7 @@
             "website": "https://geracao.live/"
          },
          {
-            "id": "025",
+            "id": "018",
             "name": "Rádio Geração Católica",
             "icon_url": "https://img.radios.com.br/radio/lg/radio39948_1646245542.jpg",
             "stream_url": "https://servidor.geracaoradios.com/listen/catolica/stream",
@@ -213,7 +213,7 @@
             "website": "https://www.saudadefm.com.br/"
          },
          {
-            "id": "007",
+            "id": "002",
             "name": "Rádio Bossa Jazz Brasil",
             "icon_url": "https://cdn-profiles.tunein.com/s182075/images/logod.jpg?t=637424398910000000",
             "stream_url": "https://centova5.transmissaodigital.com:20104/live",
@@ -226,7 +226,7 @@
       ],
       "São Paulo": [
          {
-            "id": "002",
+            "id": "001",
             "name": "Rádio Disney",
             "icon_url": "https://cdn-profiles.tunein.com/s299977/images/logod.png?t=638297751840000000",
             "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
@@ -237,7 +237,7 @@
             "website": "http://www.disney.com.br/radio/"
          },
          {
-            "id": "003",
+            "id": "002",
             "name": "Rádio Samba FM",
             "icon_url": "https://img.radios.com.br/radio/lg/radio15687_1566469194.jpg",
             "stream_url": "https://hts01.brascast.com:8428/live",
@@ -248,7 +248,7 @@
             "website": "https://sambafm.com.br/"
          },
          {
-            "id": "004",
+            "id": "003",
             "name": "Rádio Kiss",
             "icon_url": "https://cdn-profiles.tunein.com/s6165/images/logod.png?t=636927382740000000",
             "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
@@ -259,7 +259,7 @@
             "website": "https://kissfm.com.br/"
          },
          {
-            "id": "005",
+            "id": "004",
             "name": "Rádio Classic Pan",
             "icon_url": "https://img.radios.com.br/radio/lg/radio107070_1744266042.png",
             "stream_url": "https://stream.zeno.fm/rtk4pzcome3vv",
@@ -270,7 +270,7 @@
             "website": "https://jovempan.com.br/"
          },
          {
-            "id": "006",
+            "id": "005",
             "name": "Rádio Black Chic",
             "icon_url": "https://cdn-profiles.tunein.com/s251062/images/logod.png?t=637797473930000000",
             "stream_url": "https://s42.maxcast.com.br:8324/live",
@@ -281,7 +281,7 @@
             "website": "https://radioblackchic.com/"
          },
          {
-            "id": "026",
+            "id": "006",
             "name": "Rádio Antena 1",
             "icon_url": "https://cdn-profiles.tunein.com/s67624/images/logod.jpg?t=637382805460000000",
             "stream_url": "https://antenaone.crossradio.com.br/stream/1;",
@@ -817,7 +817,7 @@
             "website": ""
          },
          {
-            "id": "047",
+            "id": "046",
             "name": "Rádio Paraná Educativa",
             "icon_url": "https://img.radios.com.br/radio/md/radio14230_1552651351.jpg",
             "stream_url": "http://200.189.113.201/stream/educativaam.mp3",
@@ -828,7 +828,7 @@
             "website": ""
          },
          {
-            "id": "048",
+            "id": "047",
             "name": "Rádio RB2",
             "icon_url": "https://img.radios.com.br/radio/lg/radio11824_1439401393.jpg",
             "stream_url": "https://stream1.svrdedicado.org/8030/stream",
@@ -839,7 +839,7 @@
             "website": ""
          },
          {
-            "id": "049",
+            "id": "048",
             "name": "Rádio Rede Aleluia",
             "icon_url": "https://img.radios.com.br/radio/lg/radio150353_1593116511.png",
             "stream_url": "http://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8",
@@ -850,7 +850,7 @@
             "website": ""
          },
          {
-            "id": "050",
+            "id": "049",
             "name": "Rádio Tropical Gospel",
             "icon_url": "https://img.radios.com.br/radio/lg/radio25564_1439401624.jpg",
             "stream_url": "https://stream3.svrdedicado.org/8096/stream",
@@ -863,7 +863,7 @@
       ],
       "Fazenda Rio Grande": [
          {
-            "id": "046",
+            "id": "001",
             "name": "Rádio Nacional",
             "icon_url": "https://img.radios.com.br/radio/lg/radio12186_1736972790.jpg",
             "stream_url": "https://stm17.xcast.com.br:12334/stream",
