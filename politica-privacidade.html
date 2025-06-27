@@ -6,7 +6,7 @@
     <title>Política de Privacidade - Rádio PR</title>
     <style>
         :root {
-            --primary-color: #3498db;
+            --primary-color: #00695C;
             --secondary-color: #2c3e50;
             --accent-color: #e74c3c;
             --text-color: #333;
@@ -129,11 +129,11 @@
     <div class="container">
         <header>
             <h1>Política de Privacidade do Rádio PR</h1>
-            <div class="last-updated">Última atualização: 22 de junho de 2025</div>
+            <div class="last-updated">Última atualização: 28 de junho de 2025</div>
         </header>
 
         <section>
-            <p>O aplicativo <strong>Rádio PR</strong> respeita a sua privacidade e está comprometido em proteger os seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos e compartilhamos informações quando você utiliza o nosso aplicativo.</p>
+            <p>O aplicativo <strong>Rádio PR</strong> respeita a sua privacidade e está comprometido em proteger os seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos e compartilhamos informações quando você utiliza o nosso aplicativo, incluindo o uso do serviço em primeiro plano (RadioPlayerService) para reprodução contínua de áudio.</p>
         </section>
 
         <section>
@@ -148,9 +148,12 @@
                 <p><strong>Permissões solicitadas:</strong></p>
                 <ul class="permission-list">
                     <li><strong>INTERNET:</strong> Necessária para transmitir as estações de rádio online.</li>
-                    <li><strong>ACESSO AO ESTADO DA REDE:</strong> Usada para verificar a conectividade e garantir o funcionamento adequado do aplicativo.</li>
-                    <li><strong>SERVIÇO EM PRIMEIRO PLANO:</strong> Essenciais para reproduzir áudio em segundo plano enquanto você usa outros aplicativos.</li>
-                    <li><strong>NOTIFICAÇÕES:</strong> Utilizada para exibir notificações relacionadas à reprodução de áudio e atualizações do aplicativo.</li>
+                    <li><strong>ACESSO AO ESTADO DA REDE (ACCESS_NETWORK_STATE):</strong> Usada para verificar a conectividade e garantir o funcionamento adequado do aplicativo.</li>
+                    <li><strong>GRAVAR ÁUDIO (RECORD_AUDIO):</strong> Utilizada para funcionalidades que possam requerer captura de áudio.</li>
+                    <li><strong>MODIFICAR CONFIGURAÇÕES DE ÁUDIO (MODIFY_AUDIO_SETTINGS):</strong> Permite ajustar as configurações de áudio do dispositivo para melhor experiência de reprodução.</li>
+                    <li><strong>SERVIÇO EM PRIMEIRO PLANO (FOREGROUND_SERVICE):</strong> Essencial para manter o aplicativo em execução enquanto reproduz áudio.</li>
+                    <li><strong>SERVIÇO DE PRIMEIRO PLANO PARA REPRODUÇÃO DE MÍDIA (FOREGROUND_SERVICE_MEDIA_PLAYBACK):</strong> Específico para reprodução contínua de áudio em segundo plano.</li>
+                    <li><strong>NOTIFICAÇÕES (POST_NOTIFICATIONS):</strong> Utilizada para exibir notificações relacionadas à reprodução de áudio e atualizações do aplicativo.</li>
                 </ul>
             </div>
         </section>
@@ -160,8 +163,9 @@
             <p>As informações coletadas são utilizadas para:</p>
             <ul>
                 <li>Fornecer e melhorar o serviço de transmissão de rádio.</li>
-                <li>Garantir o funcionamento contínuo do aplicativo.</li>
-                <li>Enviar notificações relevantes.</li>
+                <li>Garantir o funcionamento contínuo do aplicativo, incluindo a reprodução em segundo plano através do RadioPlayerService.</li>
+                <li>Gerenciar as configurações de áudio do dispositivo para otimizar a reprodução.</li>
+                <li>Enviar notificações relevantes sobre a reprodução de áudio.</li>
                 <li>Realizar análises para otimizar a experiência do usuário.</li>
             </ul>
         </section>
@@ -178,6 +182,7 @@
         <section>
             <h2>4. Segurança dos Dados</h2>
             <p>Implementamos medidas para proteger suas informações contra acesso não autorizado. No entanto, nenhum sistema é 100% seguro.</p>
+            <p>O aplicativo pode se comunicar com servidores usando conexões não criptografadas (HTTP) quando necessário para compatibilidade com determinadas estações de rádio.</p>
         </section>
 
         <section>
