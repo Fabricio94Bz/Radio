@@ -293,21 +293,6 @@
          }
       ]
    },
-   "MG": {
-      "Belo Horizonte": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Belo Horizonte / MG",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
    "RJ": {
       "Rio de Janeiro": [
          {
@@ -331,21 +316,6 @@
             "MHz": "98.1 FM",
             "genre": "Popular, Esportes, Debates e Entrevistas",
             "website": "https://radioglobo.globo.com/"
-         }
-      ]
-   },
-   "BA": {
-      "Salvador": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Salvador / BA",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
          }
       ]
    },
@@ -931,51 +901,6 @@
          }
       ]
    },
-   "PE": {
-      "Recife": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Recife / PE",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "CE": {
-      "Fortaleza": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Fortaleza / CE",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "PA": {
-      "Belém": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Belém / PA",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
    "SC": {
       "Balneário Piçarras": [
          {
@@ -988,141 +913,6 @@
             "MHz": "WEB",
             "genre": "Rock",
             "website": "https://antenarock.com/"
-         }
-      ]
-   },
-   "GO": {
-      "Goiânia": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Goiânia / GO",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "MA": {
-      "São Luís": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "São Luís / MA",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "ES": {
-      "Vitória": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Vitória / ES",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "PB": {
-      "João Pessoa": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "João Pessoa / PB",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "AM": {
-      "Manaus": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Manaus / AM",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "MT": {
-      "Cuiabá": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Cuiabá / MT",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "RN": {
-      "Natal": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Natal / RN",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "AL": {
-      "Maceió": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Maceió / AL",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "PI": {
-      "Teresina": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Teresina / PI",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
          }
       ]
    },
@@ -1292,111 +1082,6 @@
             "MHz": "WEB",
             "genre": "Dance",
             "website": "https://hunter.fm/"
-         }
-      ]
-   },
-   "MS": {
-      "Campo Grande": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Campo Grande / MS",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "SE": {
-      "Aracaju": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Aracaju / SE",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "TO": {
-      "Palmas": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Palmas / TO",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "RO": {
-      "Porto Velho": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Porto Velho / RO",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "AC": {
-      "Rio Branco": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Rio Branco / AC",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "AP": {
-      "Macapá": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Macapá / AP",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
-         }
-      ]
-   },
-   "RR": {
-      "Boa Vista": [
-         {
-            "id": "001",
-            "name": "",
-            "icon_url": "",
-            "stream_url": "",
-            "description": "Boa Vista / RR",
-            "band": "",
-            "MHz": "",
-            "genre": "",
-            "website": ""
          }
       ]
    },
