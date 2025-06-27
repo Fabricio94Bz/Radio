@@ -23,6 +23,17 @@
    },
    {
       "id": "03",
+      "name": "Rádio Disney",
+      "icon_url": "https://cdn-profiles.tunein.com/s299977/images/logod.png?t=638297751840000000",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
+      "description": "São Paulo / SP",
+      "band": "FM",
+      "MHz": "91.3 FM",
+      "genre": "Sertaneja, CHR, Jovem",
+      "website": "http://www.disney.com.br/radio/"
+   },
+   {
+      "id": "03",
       "name": "Rádio Alternativa Rock",
       "icon_url": "https://img.radios.com.br/radio/lg/radio45206_1683137299.jpg",
       "stream_url": "https://s25.maxcast.com.br:8080/live",
