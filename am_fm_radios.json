@@ -7,7 +7,7 @@
       "description": "Santos / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Flashback, Adulta, Classic Hits",
+      "genre": "Flashback, Pop",
       "website": "https://www.saudadefm.com.br/"
    },
    {
@@ -29,7 +29,7 @@
       "description": "São Paulo / SP",
       "band": "FM",
       "MHz": "91.3 FM",
-      "genre": "Sertaneja, CHR, Jovem",
+      "genre": "Sertaneja, Pop",
       "website": "http://www.disney.com.br/radio/"
    },
    {
@@ -40,7 +40,7 @@
       "description": "Curitiba / PR",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Rock 'n' Roll",
+      "genre": "Pop-Rock, Rock",
       "website": "https://radioalternativarock.com/"
    },
    {
@@ -51,7 +51,7 @@
       "description": "Rio de Janeiro / RJ",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "World Music, Dance, Techno",
+      "genre": "Dance, Techno, Eletrocica",
       "website": ""
    },
    {
@@ -62,7 +62,7 @@
       "description": "São Paulo / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Samba Pagode",
+      "genre": "Samba, Pagode",
       "website": "https://sambafm.com.br/"
    },
    {
@@ -73,7 +73,7 @@
       "description": "São Paulo / SP",
       "band": "FM",
       "MHz": "WEB",
-      "genre": "Pop-Rock, Classic Rock",
+      "genre": "Pop-Rock, Rock",
       "website": "https://kissfm.com.br/"
    },
    {
@@ -84,7 +84,7 @@
       "description": "São Paulo / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Flashback, Adulta, Classic Hits",
+      "genre": "Flashback",
       "website": "https://jovempan.com.br/"
    },
    {
@@ -106,7 +106,7 @@
       "description": "Rio de Janeiro / RJ",
       "band": "FM",
       "MHz": "98.1 FM",
-      "genre": "Popular, Esportes, Debates e Entrevistas",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": "https://radioglobo.globo.com/"
    },
    {
@@ -117,7 +117,7 @@
       "description": "Curitiba / PR",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Classic Rock, Blues",
+      "genre": "Rock",
       "website": "https://rota99webradio.com/"
    },
    {
@@ -128,7 +128,7 @@
       "description": "São Paulo / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Flashback, Soul / R&B, Hits Africanos",
+      "genre": "Flashback, Samba, Pagode",
       "website": "https://radioblackchic.com/"
    },
    {
@@ -139,7 +139,7 @@
       "description": "Santos / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Jazz, Bossa Nova",
+      "genre": "Jazz, MPB",
       "website": "https://bossajazzbrasil.com/"
    },
    {
@@ -150,7 +150,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Rock, New Rock",
+      "genre": "Pop-Rock, Pop, Rock",
       "website": "https://geracao.live/"
    },
    {
@@ -161,7 +161,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Techno",
+      "genre": "Techno, Eletronica, Dance",
       "website": "https://geracao.live/"
    },
    {
@@ -194,7 +194,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Samba Pagode",
+      "genre": "Samba, Pagode",
       "website": "https://geracao.live/"
    },
    {
@@ -205,7 +205,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Hits",
+      "genre": "Pop-Rock, Dance, Pop",
       "website": "https://geracao.live/"
    },
    {
@@ -249,7 +249,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Jovem",
+      "genre": "Funk",
       "website": "https://geracao.live/"
    },
    {
@@ -315,7 +315,7 @@
       "description": "Limeira / SP",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Hits, Sertaneja",
+      "genre": "Sertaneja",
       "website": "https://geracao.live/"
    },
    {
@@ -348,7 +348,7 @@
       "description": "Brasília / DF",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Oldies, Adulta",
+      "genre": "Flashback",
       "website": "https://hunter.fm/"
    },
    {
@@ -436,7 +436,7 @@
       "description": "Brasília / DF",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Samba Pagode",
+      "genre": "Samba, Pagode",
       "website": "https://hunter.fm/"
    },
    {
@@ -447,7 +447,7 @@
       "description": "Brasília / DF",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Hits, Eclética, Forró",
+      "genre": "Eclética, Forró",
       "website": "https://hunter.fm/"
    },
    {
@@ -458,7 +458,7 @@
       "description": "Brasília / DF",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Jovem, Pop",
+      "genre": "Pop",
       "website": "https://hunter.fm/"
    },
    {
@@ -469,7 +469,7 @@
       "description": "Brasília / DF",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Hits, CHR, Pop",
+      "genre": "CHR, Pop",
       "website": "https://hunter.fm/"
    },
    {
@@ -513,7 +513,7 @@
       "description": "Curitiba / PR",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Gauchesca",
+      "genre": "Gauchesca, Sertaneja",
       "website": ""
    },
    {
@@ -546,7 +546,7 @@
       "description": "Eureka / CA",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Adulta, Classic Rock, Soft Rock",
+      "genre": "Classic Rock, Soft Rock",
       "website": ""
    },
    {
@@ -601,7 +601,7 @@
       "description": "Curitiba / PR",
       "band": "WEB",
       "MHz": "WEB",
-      "genre": "Pop-Rock, Rock 'n' Roll, Futebol",
+      "genre": "Pop-Rock, Rock, Pop, Futebol",
       "website": "https://www.athletico.com.br/"
    },
    {
@@ -623,7 +623,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "98.9 FM",
-      "genre": "Hits, Eclética, Jovem",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja, Pagode",
       "website": "https://www.98fmcuritiba.com.br/"
    },
    {
@@ -634,7 +634,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "90.1 FM",
-      "genre": "Flashback, Adulta",
+      "genre": "Flashback",
       "website": "https://alphafm.com.br/"
    },
    {
@@ -645,7 +645,7 @@
       "description": "São Paulo / SP",
       "band": "FM",
       "MHz": "94.7 FM",
-      "genre": "Flashback, Adulta",
+      "genre": "Flashback",
       "website": "https://www.antena1.com.br/"
    },
    {
@@ -656,7 +656,7 @@
       "description": "Porto Alegre / RS",
       "band": "FM",
       "MHz": "94.3 FM",
-      "genre": "Pop-Rock",
+      "genre": "Pop-Rock, MPB",
       "website": "https://atl.clicrbs.com.br/"
    },
    {
@@ -667,7 +667,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "89.7 FM",
-      "genre": "Jornalismo, Popular",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": "https://www.bandab.com.br/"
    },
    {
@@ -678,7 +678,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "96.3 FM",
-      "genre": "Jornalismo, Esportes, Automobilismo",
+      "genre": "Jornalismo, Esportes, Futebol",
       "website": "https://www.band.com.br/"
    },
    {
@@ -700,7 +700,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "102.3 FM",
-      "genre": "Hits, Pop-Rock, Eclética",
+      "genre": "Pop-Rock, Eclética",
       "website": "https://caiobafm.com.br/"
    },
    {
@@ -711,7 +711,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "95.1 FM",
-      "genre": "Jornalismo, Futebol, Debates e Entrevistas",
+      "genre": "Jornalismo, Esportes, Futebol, MPB",
       "website": "https://cbncuritiba.com.br/"
    },
    {
@@ -722,7 +722,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "101.5 FM",
-      "genre": "Hits, Sertaneja, Popular",
+      "genre": "Sertaneja, MPB",
       "website": "https://clubefm.com/"
    },
    {
@@ -733,7 +733,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "93.3 FM",
-      "genre": "Sertaneja, Popular, Adulta",
+      "genre": "Sertaneja, MPB",
       "website": "https://supercolombo.com.br/"
    },
    {
@@ -744,7 +744,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "101.9 FM",
-      "genre": "Adulta, MPB, Noticiários",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": "https://difusorafmcuritiba.com.br/"
    },
    {
@@ -755,7 +755,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "85.3 FM",
-      "genre": "Pop-Rock, Rock, Jovem",
+      "genre": "Pop-Rock, Rock, Pop",
       "website": "https://estacaoprimeira.com.br/"
    },
    {
@@ -810,7 +810,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "103.9 FM",
-      "genre": "Pop-Rock, Jovem",
+      "genre": "Pop-Rock, Pop, Rock",
       "website": ""
    },
    {
@@ -843,7 +843,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "88.9 FM",
-      "genre": "Hits, Sertaneja, Sertanejo Raiz",
+      "genre": "Sertaneja, Sertanejo Raiz",
       "website": ""
    },
    {
@@ -865,7 +865,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "97.7 FM",
-      "genre": "Sertaneja, Popular, Esportes",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": ""
    },
    {
@@ -876,7 +876,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "92.9 FM",
-      "genre": "Sertaneja, Popular, Jornalismo",
+      "genre": "Sertaneja, Jornalismo",
       "website": ""
    },
    {
@@ -887,7 +887,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "98.3 FM",
-      "genre": "Pop-Rock, CHR, Jovem",
+      "genre": "Pop-Rock, Pop, Rock",
       "website": ""
    },
    {
@@ -898,7 +898,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "93.9 FM",
-      "genre": "Pop-Rock, Rock, Jovem",
+      "genre": "Pop-Rock, Rock",
       "website": ""
    },
    {
@@ -909,7 +909,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "102.9 FM",
-      "genre": "Adulta",
+      "genre": "Flashback, MPB",
       "website": ""
    },
    {
@@ -931,7 +931,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "105.5 FM",
-      "genre": "Flashback, Adulta, Easy Listening",
+      "genre": "Flashback, MPB",
       "website": ""
    },
    {
@@ -942,7 +942,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "97.1 FM",
-      "genre": "Adulta, Pública, MPB",
+      "genre": "MPB",
       "website": ""
    },
    {
@@ -964,7 +964,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "89.3 FM",
-      "genre": "Pop-Rock, Rock, Rock 'n' Roll",
+      "genre": "Pop-Rock, Rock,",
       "website": ""
    },
    {
@@ -986,7 +986,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "104.9 FM",
-      "genre": "Sertaneja, Eclética",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": ""
    },
    {
@@ -997,7 +997,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "100.3 FM",
-      "genre": "Hits, Pop-Rock, Futebol",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": ""
    },
    {
@@ -1008,106 +1008,7 @@
       "description": "Curitiba / PR",
       "band": "FM",
       "MHz": "94.5 FM",
-      "genre": "Eclética",
-      "website": ""
-   },
-   {
-      "id": "93",
-      "name": "Rádio Canção Nova",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio18047_1445518855.jpg",
-      "stream_url": "https://cloud1.cdnseguro.com:2574/stream",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "1370 AM",
-      "genre": "Católica",
-      "website": ""
-   },
-   {
-      "id": "94",
-      "name": "Rádio Cultura",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio12410_1548763299.jpg",
-      "stream_url": "https://mbetti.jmvstream.com/stream",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "930 AM",
-      "genre": "Hits, Eclética",
-      "website": ""
-   },
-   {
-      "id": "95",
-      "name": "Rádio Deus é Amor",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio14748_1579779505.jpg",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PR_RADIOONLINEAAC_SC",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "1210 AM",
-      "genre": "Gospel",
-      "website": ""
-   },
-   {
-      "id": "96",
-      "name": "Rádio Marumby",
-      "icon_url": "https://img.radios.com.br/radio/md/radio13816_1600078529.jpg",
-      "stream_url": "http://sl.dnip.com.br:10174/stream",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "730 AM",
-      "genre": "Gospel",
-      "website": ""
-   },
-   {
-      "id": "97",
-      "name": "Rádio Nacional",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio12186_1736972790.jpg",
-      "stream_url": "https://stm17.xcast.com.br:12334/stream",
-      "description": "Fazenda Rio Grande / PR",
-      "band": "AM",
-      "MHz": "790 AM",
-      "genre": "Polular",
-      "website": ""
-   },
-   {
-      "id": "98",
-      "name": "Rádio Paraná Educativa",
-      "icon_url": "https://img.radios.com.br/radio/md/radio14230_1552651351.jpg",
-      "stream_url": "http://200.189.113.201/stream/educativaam.mp3",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "630 AM",
-      "genre": "MPB",
-      "website": ""
-   },
-   {
-      "id": "99",
-      "name": "Rádio RB2",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio11824_1439401393.jpg",
-      "stream_url": "https://stream1.svrdedicado.org/8030/stream",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "1430 AM",
-      "genre": "Sertaneja, Popular",
-      "website": ""
-   },
-   {
-      "id": "100",
-      "name": "Rádio Rede Aleluia",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio150353_1593116511.png",
-      "stream_url": "http://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "1170 AM",
-      "genre": "Gospel",
-      "website": ""
-   },
-   {
-      "id": "101",
-      "name": "Rádio Tropical Gospel",
-      "icon_url": "https://img.radios.com.br/radio/lg/radio25564_1439401624.jpg",
-      "stream_url": "https://stream3.svrdedicado.org/8096/stream",
-      "description": "Curitiba / PR",
-      "band": "AM",
-      "MHz": "1320 AM",
-      "genre": "Gospel",
+      "genre": "Jornalismo, Esportes, Futebol, MPB, Sertaneja",
       "website": ""
    }
 ]
