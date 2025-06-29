@@ -905,10 +905,10 @@
       "id": "83",
       "name": "Rádio Mix",
       "icon_url": "https://cdn-profiles.tunein.com/s7052/images/logod.png?t=637254174500000000",
-      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_GOIANIAAAC.aac",
-      "description": "Goiânia / GO",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BH.mp3",
+      "description": "Belo Horizonte / MG",
       "band": "FM",
-      "MHz": "106.1 FM",
+      "MHz": "90.3 FM",
       "genre": "Pop-Rock, Pop, Rock",
       "website": "https://radiomixfm.com.br/"
    },
