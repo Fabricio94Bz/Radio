@@ -1084,15 +1084,62 @@
       "id": "099",
       "name": "Rádio Rock",
       "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
-      "stream_url": "https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
-      "description": "Curitiba / PR",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
+      "description": "São Paulo / SP",
       "band": "FM",
-      "MHz": "89.3 FM",
+      "MHz": "89.1 FM",
       "genre": "Pop-Rock, Rock",
-      "website": ""
+      "website": "https://www.radiorock.com.br/",
+      "is_main_station": true,
+      "branches": [
+         {
+            "id": "100",
+            "name": "Rádio Rock",
+            "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
+            "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
+            "description": "São Paulo / SP",
+            "band": "FM",
+            "MHz": "89.1 FM",
+            "genre": "Pop-Rock, Rock",
+            "website": "https://www.radiorock.com.br/"
+         },
+         {
+            "id": "101",
+            "name": "Rádio Rock",
+            "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
+            "stream_url": "https://ice.fabricahost.com.br/89aradiorockgo",
+            "description": "Goiânia / GO",
+            "band": "FM",
+            "MHz": "102.9 FM",
+            "genre": "Pop-Rock, Rock",
+            "website": "https://www.radiorock.com.br/"
+         },
+         {
+            "id": "102",
+            "name": "Rádio Rock",
+            "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
+            "stream_url": "https://ice.fabricahost.com.br/89fmcuritiba?1749673659984",
+            "description": "Curitiba / PR",
+            "band": "FM",
+            "MHz": "89.3 FM",
+            "genre": "Pop-Rock, Rock",
+            "website": "https://www.radiorock.com.br/"
+         },
+         {
+            "id": "103",
+            "name": "Rádio Rock",
+            "icon_url": "https://cdn-profiles.tunein.com/s85089/images/logod.jpg?t=638023933120000000",
+            "stream_url": "https://ice.fabricahost.com.br/89ribeirao",
+            "description": "Ribeirão Preto / SP",
+            "band": "FM",
+            "MHz": "94.5 FM",
+            "genre": "Pop-Rock, Rock",
+            "website": "https://www.radiorock.com.br/"
+         }
+      ]
    },
    {
-      "id": "100",
+      "id": "104",
       "name": "Rádio Sara Brasil",
       "icon_url": "https://img.radios.com.br/radio/lg/radio14541_1641820167.png",
       "stream_url": "https://hts01.brascast.com:8012/live",
@@ -1103,7 +1150,7 @@
       "website": ""
    },
    {
-      "id": "101",
+      "id": "105",
       "name": "Rádio T",
       "icon_url": "https://cdn-profiles.tunein.com/s129018/images/logod.png?t=636358887963670000",
       "stream_url": "https://s1.mediacp.com.br:8984/stream",
@@ -1114,7 +1161,7 @@
       "website": ""
    },
    {
-      "id": "102",
+      "id": "106",
       "name": "Rádio Transamérica",
       "icon_url": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
       "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWB.mp3",
@@ -1125,7 +1172,7 @@
       "website": ""
    },
    {
-      "id": "103",
+      "id": "107",
       "name": "Rádio Uni",
       "icon_url": "https://img.radios.com.br/radio/lg/radio15288_1471951451.jpg",
       "stream_url": "http://cast62.sitehosting.com.br:8371/live",
